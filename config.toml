@@ -1,7 +1,8 @@
 baseurl = "https://example.org"
 title = "Ranked Set Sampling Symposium"
 theme = "hugo-universal-theme"
-# themesDir = "../.."
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 languageCode = "en-au"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
@@ -24,7 +25,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Blog"
-    url  = "/blog/"
+    url  = "/post/"
     weight = 2
 
 [[menu.main]]
@@ -65,17 +66,20 @@ paginate = 10
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/blog/"
-    author = "DevCows"
+    viewMorePostLink = "/post/"
+    author = "Biometry Hub"
     defaultKeywords = ["devows", "hugo", "go"]
     defaultDescription = "Site template made by devcows using hugo"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    googleMapsApiKey = "AIzaSyAEWfK0x75ZQTAxRdqp7oNQxVSZ4FEG0gI"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "green"
 
+	
+	
+	
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
     # email. Visitors can send up to a 1000 emails each month for free.
@@ -98,24 +102,24 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p><strong>Biometry Hub</strong>
+        <br>Level 2, Main Waite Building
+        <br>Waite Road
+        <br>Waite Campus
+        <br>Urrbrae 5064
         <br>
-        <strong>Great Britain</strong>
+        <strong>South Australia</strong>
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "-34.968035"
+    longitude = "138.635613"
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/post/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
@@ -123,48 +127,48 @@ paginate = 10
       """
 
 # Enable and disable widgets for the right sidebar
-[params.widgets]
-    categories = true
-    tags = true
-    search = true
+#[params.widgets]
+#    categories = true
+#    tags = true
+#    search = true
 
-[params.carousel]
-    enable = true
+#[params.carousel]
+    #enable = true
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
 
-[params.features]
-    enable = true
+#[params.features]
+#    enable = true
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
-[params.testimonials]
-    enable = true
+#[params.testimonials]
+#    enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Testimonials"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
-[params.see_more]
-    enable = true
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+#[params.see_more]
+#    enable = true
+#    icon = "fa fa-file-code-o"
+#    title = "Do you want to see more?"
+#    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+#    link_url = "#"
+#    link_text = "Check other homepages"
 
-[params.clients]
-    enable = true
+#[params.clients]
+#    enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
+#    title = "Our Clients"
+#    subtitle = ""
 
-[params.recent_posts]
-    enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+#[params.recent_posts]
+#    enable = true
+#    title = "From our blog"
+#    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
