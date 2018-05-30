@@ -24,61 +24,56 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "Registration"
+    url  = "/registration/"
+    weight = 2	
+	[[menu.registration]]
+    name = "Something"
+    url  = "/registration/"
+    weight = 2	
+
+[[menu.main]]
+    name = "Speakers"
+    url  = "/speakers/"
+    weight = 3
+	
+[[menu.main]]
+    name = "Schedule"
+    url  = "/schedule/"
+    weight = 4
+	
+[[menu.main]]
+    name = "Travel"
+    url  = "/travel/"
+    weight = 5
+	
+[[menu.main]]
+    name = "News"
     url  = "/post/"
-    weight = 2
+    weight = 6
 
 [[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
-    weight = 3
+    weight = 7
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 8
 
-# Top bar social links menu
-
-[[menu.topbar]]
-    weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-    weight = 2
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
-    weight = 4
-    name = "Email"
-    url = "mailto:your@email.com"
-    pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/post/"
     author = "Biometry Hub"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
-
-    # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyAEWfK0x75ZQTAxRdqp7oNQxVSZ4FEG0gI"
+    defaultKeywords = ["ranked set sampling", "statistics"]
+    #defaultDescription = "Site template made by devcows using hugo"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "green"
 
-	
-	
+		
 	
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -96,7 +91,7 @@ paginate = 10
     email = "your@email.com"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "&copy; 2018, University of Adelaide; All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -111,26 +106,31 @@ paginate = 10
         <strong>South Australia</strong>
       </p>
       """
+	  
+	# Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = "AIzaSyAEWfK0x75ZQTAxRdqp7oNQxVSZ4FEG0gI"
+  
     latitude = "-34.968035"
     longitude = "138.635613"
+	direction = "Waite Building, Waite Rd, Urrbrae, SA, 5064"
 
 [Permalinks]
     blog = "/post/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
-[params.topbar]
-    enable = false
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-      </p>
-      """
+#[params.topbar]
+#    enable = false
+#    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+#      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
+#      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+#      </p>
+#      """
 
 # Enable and disable widgets for the right sidebar
-#[params.widgets]
-#    categories = true
-#    tags = true
-#    search = true
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
 
 #[params.carousel]
     #enable = true

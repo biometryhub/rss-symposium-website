@@ -16,7 +16,7 @@ function map () {
         {
           'featureType': 'landscape', 'stylers': [{'lightness': 65}, {'visibility': 'on'}]
         }, {
-          'featureType': 'poi', 'stylers': [{'lightness': 51}, {'visibility': 'simplified'}]
+          'featureType': 'poi', 'stylers': [{'visibility': 'simplified'}]
         }, {
           'featureType': 'road.highway', 'stylers': [{'visibility': 'simplified'}]
         }, {
@@ -30,7 +30,7 @@ function map () {
         }, {
           'featureType': 'water', 'elementType': 'labels', 'stylers': [{'visibility': 'on'}, {'lightness': -25}]
         }, {
-          'featureType': 'water', 'elementType': 'geometry', 'stylers': [{'hue': '#ffff00'}, {'lightness': -25}]
+          'featureType': 'water', 'elementType': 'geometry', 'stylers': [{'lightness': -25}]
         }
       ]
 
