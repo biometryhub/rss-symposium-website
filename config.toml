@@ -27,10 +27,11 @@ paginate = 10
     name = "Registration"
     url  = "/registration/"
     weight = 2	
-	[[menu.registration]]
-    name = "Something"
-    url  = "/registration/"
-    weight = 2	
+
+	#[[menu.registration]]
+    #name = "Something"
+    #url  = "/registration/"
+    #weight = 2	
 
 [[menu.main]]
     name = "Speakers"
