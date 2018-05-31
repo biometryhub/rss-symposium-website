@@ -3,6 +3,14 @@ title = "Ranked Set Sampling Symposium"
 theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+##### To do for Sam #####
+# Fix image on homepage
+
+
+
+
+
+
 languageCode = "en-au"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
