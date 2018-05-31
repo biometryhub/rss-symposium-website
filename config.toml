@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://rankedset.netlify.com/"
 title = "Ranked Set Sampling Symposium"
 theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
