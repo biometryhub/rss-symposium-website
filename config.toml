@@ -108,7 +108,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "biometrytraining@adelaide.edu.au"
 
     about_us = "<p>We are a research group based at the <a href='https://www.adelaide.edu.au'>University of Adelaide</a> Waite campus.</p>"
     copyright = "&copy; 2018, Biometry Hub; All rights reserved."
