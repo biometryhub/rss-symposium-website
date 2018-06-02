@@ -28,9 +28,9 @@ function map () {
         }, {
           'featureType': 'administrative.province', 'stylers': [{'visibility': 'off'}]
         }, {
-          'featureType': 'water', 'elementType': 'labels', 'stylers': [{'visibility': 'on'}, {'lightness': -25}]
+          'featureType': 'water', 'elementType': 'labels', 'stylers': [{'visibility': 'on'}]
         }, {
-          'featureType': 'water', 'elementType': 'geometry', 'stylers': [{'lightness': -25}]
+          'featureType': 'water', 'elementType': 'geometry', 'stylers': [{'lightness': 0}]
         }
       ]
 
@@ -47,7 +47,7 @@ function map () {
       streetViewControl: false,
       mapTypeControl: false,
       overviewMapControl: false,
-      scrollwheel: false,
+      scrollwheel: true,
       draggable: false,
       styles: styles
     })
