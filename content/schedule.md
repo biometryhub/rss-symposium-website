@@ -3,11 +3,12 @@ title = "Schedule"
 description = "Schedule for the Symposium"
 +++
 
-## Daily Schedule
+## Daily Schedule  
+
 Text here  
 
-| Time | Day 1 | Day 2 |
-| ------ | ------- | ------- |
-| 08:30am - 09:00am | Registration and Networking | Just networking |
-
+|    Time   | Event               | Location   | Speaker |
+|:---------:|---------------------|------------|---------|
+| 8:30-9:00 | Arrive and Register | Front Desk |  Pete!  |
+  
 Something more down here  

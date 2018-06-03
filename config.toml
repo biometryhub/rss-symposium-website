@@ -3,11 +3,10 @@ title = "Ranked Set Sampling Symposium"
 theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-##### To do for Sam #####
-# Add Title somehow
+##### Sam To Do #####
 # Add Uni logo
 # Logos: what and where?
-# Fix table
+# Generate table with https://www.tablesgenerator.com/markdown_tables
 # Better favicon?
 # Contact form confirmation box
 # Update about us
@@ -17,6 +16,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ##### To Ask Olena #####
 # Logos: what and where?
+#   University of Adelaide
+#	GRDC?
+#	Collaborating Unis?
+#	SAGI
 # Grains theme, or not?
 # Update about us
 # Copyright
