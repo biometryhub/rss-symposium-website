@@ -4,6 +4,7 @@ theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ##### To do for Sam #####
+# Add Title somehow
 # Add Uni logo
 # Logos: what and where?
 # Fix table
@@ -13,10 +14,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Dropdown top menus
 # More on front page
 # Green texture?
-# Mobile menu: no scrolling
 
 ##### To Ask Olena #####
 # Logos: what and where?
+# Grains theme, or not?
 # Update about us
 # Copyright
 
