@@ -8,5 +8,5 @@ Dr Olena Kravchuk
 Lecturer in Applied Statistics
 School of Agriculture, Food and Wine
 Faculty of Sciences
-olena.kravchuk@adelaide.edu.au
-(08) 83137252
+biometrytraining@adelaide.edu.au									
+(08) 8313 2246

@@ -99,7 +99,12 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Biometry research involves development and application of statistical and computational methods for the design and analysis of 
+	comparative biological experiments. Within the School of Agriculture, Food & Wine our group has a broad research agenda. This includes 
+	research in advanced experimental design and statistical modelling of comparative experiments conducted in controlled and field 
+	environments. We also have a strong focus on statistical genetics research including linkage map construction, whole genome QTL analysis 
+	and genome wide association studies (GWAS). As an extension of this research we are additionally focusing on the computational aspects of 
+	digital agriculture including machine learning algorithms, high performance computing as well as user friendly online and mobile application.</p>"
     copyright = "&copy; 2018, University of Adelaide; All rights reserved."
 
     # Format dates with Go's time formatting
