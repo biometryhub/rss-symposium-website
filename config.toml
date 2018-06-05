@@ -1,13 +1,28 @@
-baseurl = "https://example.org"
+baseurl = "https://rankedset.netlify.com/"
 title = "Ranked Set Sampling Symposium"
 theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-##### To do for Sam #####
-# Fix image on homepage
+##### Sam To Do #####
+# Add Uni logo
+# Logos: what and where?
+# Generate table with https://www.tablesgenerator.com/markdown_tables
+# Better favicon?
+# Contact form confirmation box
+# Update about us
+# Dropdown top menus
+# More on front page
+# Green texture?
 
-
-
+##### To Ask Olena #####
+# Logos: what and where?
+#   University of Adelaide
+#	GRDC?
+#	Collaborating Unis?
+#	SAGI
+# Grains theme, or not?
+# Update about us
+# Copyright
 
 
 
@@ -17,7 +32,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-120222240-1"
 
 # Define the number of posts per page
 paginate = 10
@@ -97,15 +112,10 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "biometrytraining@adelaide.edu.au"
 
-    about_us = "<p>Biometry research involves development and application of statistical and computational methods for the design and analysis of 
-	comparative biological experiments. Within the School of Agriculture, Food & Wine our group has a broad research agenda. This includes 
-	research in advanced experimental design and statistical modelling of comparative experiments conducted in controlled and field 
-	environments. We also have a strong focus on statistical genetics research including linkage map construction, whole genome QTL analysis 
-	and genome wide association studies (GWAS). As an extension of this research we are additionally focusing on the computational aspects of 
-	digital agriculture including machine learning algorithms, high performance computing as well as user friendly online and mobile application.</p>"
-    copyright = "&copy; 2018, University of Adelaide; All rights reserved."
+    about_us = "<p>We are a research group based at the <a href='https://www.adelaide.edu.au'>University of Adelaide</a> Waite campus.</p>"
+    copyright = "&copy; 2018, Biometry Hub; All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -146,43 +156,43 @@ paginate = 10
     tags = true
     search = true
 
-#[params.carousel]
-    #enable = true
+[params.carousel]
+    enable = true
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
 
-#[params.features]
-#    enable = true
+[params.features]
+    enable = true
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
-#[params.testimonials]
-#    enable = true
+[params.testimonials]
+    enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Speakers"
+    subtitle = "A selection of the speakers for this symposium"
 
-#[params.see_more]
-#    enable = true
+[params.see_more]
+    enable = true
 #    icon = "fa fa-file-code-o"
 #    title = "Do you want to see more?"
 #    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
 #    link_url = "#"
 #    link_text = "Check other homepages"
 
-#[params.clients]
-#    enable = true
+[params.clients]
+    enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-#    title = "Our Clients"
-#    subtitle = ""
+    title = "Our Clients"
+    subtitle = ""
 
-#[params.recent_posts]
-#    enable = true
-#    title = "From our blog"
-#    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+[params.recent_posts]
+    enable = true
+    title = "From our blog"
+    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
