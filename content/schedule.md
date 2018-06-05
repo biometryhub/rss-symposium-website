@@ -19,6 +19,8 @@ description = "Schedule for the Symposium"
 
 ## Daily Schedule day 2 28/09/2018
 
+ Time | Title | Presenter 
+------ | ------- | -------
 9:00 – 9:30 | Reflection on the adoption of best practice of sampling in field research and consulting | Ray Correll
 9:30 – 11:00 | Adoption of RSS in ecological surveys | Jennifer Brown
 11:00 – 11:30 | Morning tea |
@@ -29,3 +31,5 @@ description = "Schedule for the Symposium"
 16:00 – 17:30 | RSS in Big Data in plant and animal genetics | TBA
 17:30 – 19:30 | Symposium closing | Farewell drinks
 19:30 – 21:30 | Webinar, reflecting on the discussions in the Symposium | Facilitators:Jennifer Brown and Olena Kravchuk Contributors: Zehua Chen
+  
+Add some text here (Could make it hidden if necessary)
