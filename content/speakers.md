@@ -3,11 +3,9 @@ title = "Speaker Bios"
 description = "Speaker Bios"
 +++
 
-#Speaker list
+# Speaker list
 
-## Speaker 1
-
-Dr Doug Wolfe
+### Dr Doug Wolfe
 Professor Emeritus at Ohio State University
 
 ## Speaker 2
