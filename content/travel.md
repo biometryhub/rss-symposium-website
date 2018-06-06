@@ -3,7 +3,7 @@ title = "Travel"
 description = "some travel tips"
 +++
 
-World renound for it's wine, a visit to SA is not complete without a wine tour.
+World renowned for it's wine, a visit to SA is not complete without a wine tour.
 
 ## Wine Regions
 - [Clare Valley Wine District](http://clarevalley.com.au/)
