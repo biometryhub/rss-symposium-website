@@ -17,6 +17,6 @@ A gastronomic event for the ages.  A Northern Viking theme will be supported by 
 
 ## 4.  Where is the actual event taking place.
 Dunno, we will let you know as soon as we figure it out.
----
-
+  
+  
 > In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.

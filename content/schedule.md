@@ -3,7 +3,7 @@ title = "Schedule"
 description = "Schedule for the Symposium"
 +++
 
-## Daily Schedule day 1 27/09/2018
+## Daily Schedule day 1 - 27/09/2018
 
  Time | Title | Presenter 
 ------ | ------- | -------

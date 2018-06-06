@@ -6,7 +6,9 @@ description = "Speaker Bios"
 # Speaker list
 
 ### Dr Doug Wolfe
-Professor Emeritus at Ohio State University
+#### Professor Emeritus at Ohio State University
+Bio here  
+[link to slides](www.slides.com)
 
 ## Speaker 2
 Dr Olena Kravchuk
