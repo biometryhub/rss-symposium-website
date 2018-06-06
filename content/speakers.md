@@ -10,7 +10,7 @@ Professor Emeritus at Ohio State University
 
 ## Speaker 2
 Dr Olena Kravchuk
-Lecturer in Applied Statistics Adelaide University, Waite Campus
+Head of Biometry Hub and lecturer in Applied Statistics Adelaide University.
 
 ## Speaker 3
 Professor You-Gan Wang
