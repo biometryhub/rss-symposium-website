@@ -5,8 +5,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 +++
 
 
-## 1. Something has gone wrong with my registration!
-
+## 1. Something has gone wrong with my registration.
 Please get in touch with us via the contact page.  We are monitoring the email regularly and will help sort out any problems.
 
 ## 2. What is the weather like in Adelaide in September?
@@ -16,7 +15,6 @@ September is the start of spring in Adelaide.  Traditionally the start spring is
 A gastronomic event for the ages.  A Northern Viking theme will be supported by Wild boar roasted over coals, haunches of veneson that you will carve off with your special feasting knife and not a single vegetable to be seen.  Wine will flow aplenty, and stretcher bearers will be available to carry your comotose body to your hotel room at the end of the night.  Raucous behaviour is essential as well as clothes that you don't mind being stained.
 
 ## 4.  Where is the actual event taking place.
-
 Dunno, we will let you know as soon as we figure it out.
   
   

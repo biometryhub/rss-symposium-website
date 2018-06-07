@@ -3,7 +3,7 @@ title = "Schedule"
 description = "Schedule for the Symposium"
 +++
 
-## Daily Schedule day 1 - 27/09/2018
+## Day 1 - 27th September 2018
 
  Time | Title | Presenter 
 ------ | ------- | -------
@@ -17,7 +17,7 @@ description = "Schedule for the Symposium"
 15:30 – 17:00 | Afternoon tea and networking with Ag Scientists |
 18:30 – 21:30 | Symposium dinner |
 
-## Daily Schedule day 2 28/09/2018
+## Day 2 - 28th September 2018
 
  Time | Title | Presenter 
 ------ | ------- | -------
@@ -30,6 +30,6 @@ description = "Schedule for the Symposium"
 15:30 – 16:00 | Afternoon tea |
 16:00 – 17:30 | RSS in Big Data in plant and animal genetics | TBA
 17:30 – 19:30 | Symposium closing | Farewell drinks
-19:30 – 21:30 | Webinar, reflecting on the discussions in the Symposium | Facilitators:Jennifer Brown and Olena Kravchuk Contributors: Zehua Chen
+19:30 – 21:30 | Webinar, reflecting on the discussions in the Symposium | Jennifer Brown, Olena Kravchuk, Zehua Chen
   
-Add some text here (Could make it hidden if necessary)
+Speakers slides will be uploaded to the website at the end of the symposium.
