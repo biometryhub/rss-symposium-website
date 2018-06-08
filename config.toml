@@ -66,10 +66,10 @@ paginate = 10
     url  = "/travel/"
     weight = 5
 	
-[[menu.main]]
-    name = "News"
-    url  = "/post/"
-    weight = 6
+#[[menu.main]]
+#    name = "News"
+#    url  = "/post/"
+#    weight = 6
 
 [[menu.main]]
     name = "FAQ"

@@ -130,6 +130,25 @@
 }
 
 /*
+.testimonials .item .testimonial .bottom .icon {
+  color: #6aae7a;
+  font-size: 30px;
+  position: absolute; 
+  
+  width: 20%;
+}
+*/
+
+.testimonials .item .testimonial .name-picture p {
+  color: #999999;
+  margin: 0;
+  bottom: -45px;
+  right: 90px;
+  position: absolute;
+  font-size: 12px;
+}
+
+/*
 .bar.background-image-fixed-2 {
   background: url('../img/fixed-background-2.jpg') center top no-repeat;
   background-attachment: fixed;
