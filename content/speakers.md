@@ -22,7 +22,7 @@ Professor Wang’s research interests include developing statistical methodology
 
 [link to biography](http://staff.qut.edu.au/staff/wangy/)
 
-### Dr Richard Jarrett
+### Professor Richard Jarrett
 #### Retired.  Lecturer in Applied Statistics Adelaide University, Waite Campus.
 
 [link to biography](www.slides.com)
