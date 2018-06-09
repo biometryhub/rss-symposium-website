@@ -171,3 +171,11 @@ th, td {
 }
 
 tr:nth-child(even) {background-color: #f2f2f2;}
+
+/* For images on the travel page */
+
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}

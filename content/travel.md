@@ -4,7 +4,8 @@ description = "some travel tips"
 +++
 
 World renowned for it's wine, a visit to SA is not complete without a wine tour.
-![Barossa Valley](/img/barossa.jpg)
+<img style="float: right;" src="/img/barossa.jpg", class="responsive">
+<!-- ![Barossa Valley](/img/barossa.jpg) -->
 
 ## Wine Regions
 - [Clare Valley Wine District](http://clarevalley.com.au/)
@@ -13,9 +14,11 @@ World renowned for it's wine, a visit to SA is not complete without a wine tour.
 - [McLaren Vale Wine District](https://mclarenvale.info/)
 
 Adelaide is a lovely city to visit with stunning gardens dotted throughout the city.
-![Botanic gardens](/img/adelaide-botanic-garden.jpg)
 
 ## Adelaide Gardens
+<img style="float: right;" src="/img/adelaide-botanic-garden.jpg", class="responsive">
+<!-- ![Botanic gardens](/img/adelaide-botanic-garden.jpg) -->
+
 - [Waite University Gardens](https://www.adelaide.edu.au/waite-historic/gardens/)
 - [Adelaide Botanic Gardens](https://www.environment.sa.gov.au/botanicgardens/home)
 
