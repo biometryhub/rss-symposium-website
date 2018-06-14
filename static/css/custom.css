@@ -182,6 +182,6 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 .sponsors {
     width: 100%;
-    max-width: 200px;
+    max-width: 100px;
     height: auto;
 }
