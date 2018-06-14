@@ -4,11 +4,10 @@ theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ##### Sam To Do #####
-# Add Uni logo
 # Logos: what and where?
 # Generate table with https://www.tablesgenerator.com/markdown_tables
-# More on front page
-# Strange text alignment on some speaker carousel picture
+# fix images in travel
+
 
 ##### To Ask Olena #####
 # Logos: what and where?
@@ -72,9 +71,9 @@ paginate = 10
 #    weight = 6
 
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
+    name = "Sponsors"
+    identifier = "sponsors"
+    url  = "/sponsors/"
     weight = 7
 
 [[menu.main]]
@@ -169,7 +168,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Speakers"
-    subtitle = "A selection of the speakers for this symposium"
+    subtitle = "The speakers for this symposium"
 
 [params.see_more]
     enable = true
