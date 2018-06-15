@@ -67,6 +67,12 @@
 .home-carousel p,
 .home-carousel ul {
   color: #000;
+  margin: 10px 50px 10px 50px;
+  text-align: center;
+}
+
+.home-carousel p {
+  margin: 50px 50px 75px 50px;
 }
 
 @media (min-width: 768px) {
@@ -209,6 +215,18 @@ tr:nth-child(even) {background-color: #f2f2f2;}
   border-color: #6aae7a;
 }
 
-.owl-carousel .owl-item{
-	float: center;
+.owl-theme .owl-controls .owl-buttons div {
+  width: 0px;
+  height: 0px;
+  line-height: 25px;
+  margin: 0 5px 0 0;
+  font-size: 18px;
+  color: #6aae7a;
+  padding: 0;
+  background: #fff;
+  border-radius: 13px;
+  vertical-align: middle;
+  text-align: center;
+  opacity: 1;
+  filter: alpha(opacity=100);
 }
