@@ -5,6 +5,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ##### Sam To Do #####
 # Generate table with https://www.tablesgenerator.com/markdown_tables
+# Put the rest of the title on the Home page
 # Reorder speakers
 # Organising committee
 #	Olena
@@ -19,17 +20,21 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #   University of Adelaide
 #	WRI
 #	School Maths, Uni of Canterbury
+#	GRDC TBC
 # Speakers Bio's Just TBA
 # Information about what rego includes
 # Rego button more obvious
 # Allow booking for multiple people
 # Rego open in new tab
 # IE compatability
+# Waite building vanishes after 3 scrolls
+# New section for Abstract submission
+#	Up to 20 contributing talks, maybe posters
+# Update URL - rankedsetsymposium2018.website
 
 
-##### To Ask Olena #####
-# Update About us
-# Better URL
+##### Olena #####
+
 
 
 
@@ -128,7 +133,7 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Biometry Hub</strong>
+    address = """<p><strong>The Biometry Hub</strong>
         <br>Level 2, Main Waite Building
         <br>Waite Road
         <br>Waite Campus
