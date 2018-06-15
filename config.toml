@@ -1,4 +1,4 @@
-baseurl = "https://www.rankedsetsymposium2018.website"
+baseurl = "http://www.rankedsetsymposium2018.website"
 title = "Ranked Set Sampling Symposium"
 theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
