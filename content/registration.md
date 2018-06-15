@@ -2,18 +2,25 @@
 title = "Registration"
 description = "Registration page"
 +++
-## Registration Information
-
 ## Please note that the registration page does not work if you are using Internet Explorer.  Please register using Safri, Chrome, or Firefox
 
 
-#### There are four levels of registration
+### There are four levels of registration
 - Student with dinner
 - Student without dinner
 - Non Student with dinner
 - Non Student without dinner
 
-## Dinner details are TBA
+
+
+### Registration includes
+- Morning tea on both days
+- Lunch on both days
+- Entry to all workshops (TBA)
+- Entry to all talks (TBA)
+- Access to all uploaded talks
+
+#### Symposium venue and dinner details are TBA.
 
 <div class="col-sm-12 text-center">
 <p class="text-large">
