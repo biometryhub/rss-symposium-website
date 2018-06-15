@@ -40,8 +40,7 @@ Head of School for School of Mathematics and Statistics at the University of Can
 
 ### Professor Omer Ozturk
 #### Lecturer in Applied Statistics at Ohio State University.
-Omer Ozturk joined to the statistics faculty in 1996. He currently serves as an associate editor for Environmental and Ecological Statistics, Statistics and Probability Letters, Communications in Statistics- Data Analysis and Simulation, and Communications in Statistics- Theory and Methods. His research was founded by NSA and NSF. He was frequently invited to US Census Bureau as a Summer at Census Scholar. He served as publication officer in the section of nonparametric statistics in ASA. He was Elected fellow of ASA in 2010.
-
+Omer Ozturk is a Professor in the Department of Statistics at The Ohio State University. His research interest in statistics lies in developing inference under a set of relaxed distributional assumptions that may include parametric, nonparametric and robust inference under different sampling conditions. He currently serves as an associate editor for Environmental and Ecological Statistics, Statistics and Probability Letters, Communications in Statistics- Data Analysis and Simulation, and Communications in Statistics- Theory and Methods. He is frequently invited to US Census Bureau as a Summer at Census Scholar. He is an elected fellow of ASA.
 [link to biography](https://stat.osu.edu/people/ozturk.4)
 
 ### Professor Amer Al-Omari
