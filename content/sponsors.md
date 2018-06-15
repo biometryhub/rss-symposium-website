@@ -4,9 +4,20 @@ description = "Frequently asked questions"
 keywords = ["Sponsors","Who","money"]
 +++
 
+<h3>Further information on sponsorship will be added soon.</h3>
 
-## 1. University of Adelaide
-<!-- <img style="float: right;" src="/img/sponsors/UofA.png", class="responsive"> -->
+<a href="http://www.ac21.org">
+<img style="float: center;" src="/img/sponsors/AC21.png", class="sponsors">
+</a>
+<br>
+<br>
+<a href="https://www.adelaide.edu.au">
 <img style="float: center;" src="/img/sponsors/UofA.png", class="sponsors">
-<!-- ![UofA](/img/sponsors/UofA.png) -->
-  
+</a>
+<br>
+<br>
+<a href="http://www.canterbury.ac.nz/">
+<img style="float: center;" src="/img/sponsors/UC.png", class="sponsors">
+</a>
+<br>
+<br>

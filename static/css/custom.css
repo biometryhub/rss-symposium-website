@@ -188,8 +188,11 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 .sponsors {
     width: 100%;
-    max-width: 100px;
+    max-width: 150px;
     height: auto;
+	display: block;
+    margin-left: auto;  /* Change to 20% to move left */
+    margin-right: auto;
 }
 
 .btn-template-main-big {
@@ -229,4 +232,10 @@ tr:nth-child(even) {background-color: #f2f2f2;}
   text-align: center;
   opacity: 1;
   filter: alpha(opacity=100);
+}
+
+.img-responsive-sponsor {
+    width: 100%;
+    max-height: 120px;
+    width: auto;
 }

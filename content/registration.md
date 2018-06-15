@@ -2,14 +2,17 @@
 title = "Registration"
 description = "Registration page"
 +++
-## Please note that the registration page does not work if you are using Internet Explorer.  Please register using Safri, Chrome, or Firefox
+
+### Please note that the registration page does not work if you are using Internet Explorer.  Please register using Safri, Chrome, or Firefox
 
 
 ### There are four levels of registration
-- Student with dinner
-- Student without dinner
-- Non Student with dinner
-- Non Student without dinner
+- Student with dinner: **$200.00 + GST**
+- Student without dinner: **$130.00 + GST**
+- Non Student with dinner: **$400.00 + GST**
+- Non Student without dinner: **$330.00 + GST**
+
+All prices are in Australian Dollars (AUD). Proof of Student enrollment must be provided upon registration as a student.
 
 
 

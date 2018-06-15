@@ -5,15 +5,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ##### Sam To Do #####
 # Generate table with https://www.tablesgenerator.com/markdown_tables
-# Organising committee
-#	Olena
-#	Jennifer
-#	Ray
-#	Pete
 # BH logo only on contact us
-# Logos: what and where?
-#	AC21
-#   University of Adelaide
+# Logos:
 #	WRI
 #	School Maths, Uni of Canterbury
 #	GRDC TBC
@@ -117,7 +110,9 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo.png"
+    logo = "" 
+	#"img/logo.png"
+	
     address = """<p><strong>The Biometry Hub</strong>
         <br>Level 2, Main Waite Building
         <br>Waite Road
@@ -126,6 +121,12 @@ paginate = 10
         <br>
         <strong>South Australia</strong>
       </p>
+      """
+	  
+	orgcom = """<strong><a href="mailto:olena.kravchuk@adelaide.edu.au">Dr Olena Kravchuk</a> (Chair) </strong>, University of Adelaide
+        <br><strong>Prof Jennifer Brown</strong>, University of Canterbury
+        <br><strong>Dr Ray Correll</strong>, Rho Environmetrics
+        <br><strong>Mr Peter Kasprzak</strong>, University of Adelaide
       """
 	  
 	# Google Maps API key (if not set will default to not passing a key.)
