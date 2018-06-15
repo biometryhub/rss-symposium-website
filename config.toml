@@ -1,4 +1,4 @@
-baseurl = "https://rankedset.netlify.com/"
+baseurl = "https://www.rankedsetsymposium2018.website"
 title = "Ranked Set Sampling Symposium"
 theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -20,9 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #	GRDC TBC
 # Rego button more obvious
 # Rego open in new tab
-# IE compatability
 # Waite building vanishes after 3 scrolls
-# Update URL - rankedsetsymposium2018.website
 
 
 ##### Pete To Do #####

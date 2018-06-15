@@ -185,3 +185,26 @@ tr:nth-child(even) {background-color: #f2f2f2;}
     max-width: 100px;
     height: auto;
 }
+
+.btn-template-main-big {
+  font-weight: 100;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  /*text-transform: uppercase;*/
+  letter-spacing: 0.05em;
+  padding: 6px 12px;
+  font-size: 16px;
+  line-height: 2em;
+  border-radius: 0;
+  background: #6aae7a;
+  color: #ffffff;
+  border-color: #6aae7a;
+}
+
+.btn-template-main-big:hover,
+.btn-template-main-big:focus,
+.btn-template-main-big:active,
+.btn-template-main-big.active {
+  color: #6aae7a;
+  background: #ffffff;
+  border-color: #6aae7a;
+}
