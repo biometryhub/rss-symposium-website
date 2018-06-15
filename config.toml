@@ -6,17 +6,29 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 ##### Sam To Do #####
 # Logos: what and where?
 # Generate table with https://www.tablesgenerator.com/markdown_tables
-# fix images in travel
+# Reorder speakers
+# Organising committee
+#	Olena
+#	Jennifer
+#	Ray
+#	Pete
+# THE Biometry Hub
+# BH logo on contact us
+# WRI, not just University of Adelaide for Sponsors
+
 
 
 ##### To Ask Olena #####
 # Logos: what and where?
-#   University of Adelaide
+#	AC21
+#   University of Adelaide - WRI
 #	GRDC?
 #	Collaborating Unis?
 #	SAGI?
 # Grains theme, or not?
 # Copyright - UoA or BH?
+# Update About us
+# Better URL
 
 
 
@@ -51,13 +63,13 @@ paginate = 10
     #weight = 2	
 
 [[menu.main]]
-    name = "Speakers"
+    name = "Invited Speakers"
     url  = "/speakers/"
     weight = 3
 	
 [[menu.main]]
-    name = "Schedule"
-    url  = "/schedule/"
+    name = "Programme"
+    url  = "/programme/"
     weight = 4
 	
 [[menu.main]]

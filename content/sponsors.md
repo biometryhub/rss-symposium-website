@@ -1,7 +1,7 @@
 +++
-title = "SPONSORS"
+title = "Sponsors"
 description = "Frequently asked questions"
-keywords = ["SPONSORS","Who","money"]
+keywords = ["Sponsors","Who","money"]
 +++
 
 
