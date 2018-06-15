@@ -6,7 +6,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 ##### Sam To Do #####
 # Generate table with https://www.tablesgenerator.com/markdown_tables
 # Put the rest of the title on the Home page
-# Reorder speakers
 # Organising committee
 #	Olena
 #	Jennifer
@@ -29,9 +28,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 ##### Pete To Do #####
 # Speakers Bio's Just TBA
 # Information about what rego includes
+#	Two types of rego, Student, other
+#	Use rego page NOT in IE
+#	Dinner details TBA??
+#	When adding to cart, it's right up the top RHS
 # Contact Finance people, allow registering for multiple people
-# New section for Abstract submission
+# New section for Abstract submission, 3rd spot
 #	Up to 20 contributing talks, maybe posters
+# Reorder speakers - data>testimonials>renumber files
+#	Doug
+#	OmEr
+#	Jennifer
+#	Amer
+#	Olena
+#	You-Gan
+#	Ray
+#	Richard
 
 ##### Olena #####
 
