@@ -19,17 +19,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #	WRI
 #	School Maths, Uni of Canterbury
 #	GRDC TBC
-# Speakers Bio's Just TBA
-# Information about what rego includes
 # Rego button more obvious
-# Allow booking for multiple people
 # Rego open in new tab
 # IE compatability
 # Waite building vanishes after 3 scrolls
-# New section for Abstract submission
-#	Up to 20 contributing talks, maybe posters
 # Update URL - rankedsetsymposium2018.website
 
+
+##### Pete To Do #####
+# Speakers Bio's Just TBA
+# Information about what rego includes
+# Contact Finance people, allow registering for multiple people
+# New section for Abstract submission
+#	Up to 20 contributing talks, maybe posters
 
 ##### Olena #####
 
