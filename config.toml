@@ -97,7 +97,7 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/post/"
-    author = "The Biometry Hub, University of Adelaide"
+    author = "The Biometry Hub"
     defaultKeywords = ["ranked set sampling", "statistics"]
     #defaultDescription = "Site template made by devcows using hugo"
 
@@ -122,7 +122,7 @@ paginate = 10
     email = "biometrytraining@adelaide.edu.au"
 
     about_us = "<p>We are a research group based at the <a href='https://www.adelaide.edu.au'>University of Adelaide</a> Waite campus. We also have a strong focus on statistical genetics research including linkage map construction, whole genome QTL analysis and genome wide association studies (GWAS). As an extension of this research we are additionally focusing on the computational aspects of digital agriculture including machine learning algorithms, high performance computing as well as user friendly online and mobile applications. </p>"
-    copyright = "&copy; 2018, Biometry Hub; All rights reserved."
+    copyright = "&copy; 2018, The Biometry Hub, University of Adelaide; All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
