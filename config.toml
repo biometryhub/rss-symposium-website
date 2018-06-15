@@ -73,41 +73,41 @@ paginate = 10
     url  = "/registration/"
     weight = 2	
 
-	#[[menu.registration]]
-    #name = "Something"
-    #url  = "/registration/"
-    #weight = 2	
+[[menu.registration]]
+    name = "Abstract Sub"
+    url  = "/abstract/"
+	weight = 3
+	
+[[menu.main]]
+    name = "Speakers"
+    url  = "/speakers/"
+    weight = 4
 
 [[menu.main]]
     name = "Speakers"
     url  = "/speakers/"
-    weight = 3
+    weight = 5
 	
 [[menu.main]]
     name = "Programme"
     url  = "/programme/"
-    weight = 4
+    weight = 6
 	
 [[menu.main]]
     name = "Travel"
     url  = "/travel/"
-    weight = 5
+    weight = 7
 	
-#[[menu.main]]
-#    name = "News"
-#    url  = "/post/"
-#    weight = 6
-
 [[menu.main]]
     name = "Sponsors"
     identifier = "sponsors"
     url  = "/sponsors/"
-    weight = 7
+    weight = 8
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 8
+    weight = 9
 
 
 [params]
