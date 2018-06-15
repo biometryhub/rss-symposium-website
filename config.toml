@@ -4,7 +4,6 @@ theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ##### Sam To Do #####
-# Logos: what and where?
 # Generate table with https://www.tablesgenerator.com/markdown_tables
 # Reorder speakers
 # Organising committee
@@ -15,17 +14,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # THE Biometry Hub
 # BH logo on contact us
 # WRI, not just University of Adelaide for Sponsors
+# Logos: what and where?
+#	AC21
+#   University of Adelaide
+#	WRI
+#	School Maths, Uni of Canterbury
+# Speakers Bio's Just TBA
 
 
 
 ##### To Ask Olena #####
-# Logos: what and where?
-#	AC21
-#   University of Adelaide - WRI
-#	GRDC?
-#	Collaborating Unis?
-#	SAGI?
-# Grains theme, or not?
 # Copyright - UoA or BH?
 # Update About us
 # Better URL
@@ -63,7 +61,7 @@ paginate = 10
     #weight = 2	
 
 [[menu.main]]
-    name = "Invited Speakers"
+    name = "Speakers"
     url  = "/speakers/"
     weight = 3
 	
@@ -179,7 +177,7 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Speakers"
+    title = "Invited Speakers"
     subtitle = "The speakers for this symposium"
 
 [params.see_more]
