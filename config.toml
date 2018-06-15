@@ -86,30 +86,25 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
-    name = "Speakers"
-    url  = "/speakers/"
-    weight = 5
-	
-[[menu.main]]
     name = "Programme"
     url  = "/programme/"
-    weight = 6
+    weight = 5
 	
 [[menu.main]]
     name = "Travel"
     url  = "/travel/"
-    weight = 7
+    weight = 6
 	
 [[menu.main]]
     name = "Sponsors"
     identifier = "sponsors"
     url  = "/sponsors/"
-    weight = 8
+    weight = 7
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 9
+    weight = 8
 
 
 [params]
