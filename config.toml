@@ -18,8 +18,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #	WRI
 #	School Maths, Uni of Canterbury
 #	GRDC TBC
-# Rego button more obvious
-# Rego open in new tab
 # Waite building vanishes after 3 scrolls
 
 
@@ -73,8 +71,8 @@ paginate = 10
     url  = "/registration/"
     weight = 2	
 
-[[menu.registration]]
-    name = "Abstract Sub"
+[[menu.main]]
+    name = "Submit Abstract"
     url  = "/abstract/"
 	weight = 3
 	
