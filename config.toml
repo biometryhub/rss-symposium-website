@@ -20,11 +20,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #	WRI
 #	School Maths, Uni of Canterbury
 # Speakers Bio's Just TBA
-
+# Information about what rego includes
+# Rego button more obvious
+# Allow booking for multiple people
+# Rego open in new tab
+# IE compatability
 
 
 ##### To Ask Olena #####
-# Copyright - UoA or BH?
 # Update About us
 # Better URL
 
@@ -94,7 +97,7 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/post/"
-    author = "Biometry Hub"
+    author = "The Biometry Hub, University of Adelaide"
     defaultKeywords = ["ranked set sampling", "statistics"]
     #defaultDescription = "Site template made by devcows using hugo"
 
