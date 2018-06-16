@@ -75,6 +75,11 @@
   margin: 50px 50px 75px 50px;
 }
 
+section,
+div.section {
+  margin-bottom: 0px;
+}
+
 @media (min-width: 768px) {
   .navbar-collapse {
     width: auto;
