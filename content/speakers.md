@@ -6,35 +6,26 @@ description = "Speaker Bios"
 # Speaker list
 
 ## Doug Wolfe
-### Professor Emeritus Statistics
-#### The Ohio State University
+#### Professor Emeritus Statistics at Ohio State University
 
 ## Omer Ozturk
-### Professor of Statistics
-#### The Ohio State University
+#### Professor of Statistics at Ohio State University
  
 ## Jennifer Brown
-### Professor of Statistics
-#### The University of Canterbury
+#### Professor of Statistics at the University of Canterbury
  
 ## Amer Ibrahim Al-Omari
-### Professor of Statistics
-#### Al al-Bayt University
+#### Professor of Statistics at Al al-Bayt University
 
 ## Olena Kravchuk
-### Senior Lecturer in Biometry
-#### Head of the Biometry Hub
-#### The University of Adelaide
+#### Senior Lecturer in Biometry and Head of the Biometry Hub at the University of Adelaide
  
 ## You-Gan Wang
-### Professor of Data Science
-#### Queensland University of Technology
+#### Professor of Data Science at Queensland University of Technology
  
 ## Raymond Correll
-### Principal Statistician
-#### Rho Environmetrics
+#### Principal Statistician at Rho Environmetrics
  
 ## Richard Jarrett
-### Professor of Statistics (retired)
-#### The University of Adelaide
+#### Professor of Statistics (retired) at the University of Adelaide
  

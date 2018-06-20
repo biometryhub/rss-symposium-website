@@ -21,3 +21,8 @@ keywords = ["Sponsors","Who","money"]
 </a>
 <br>
 <br>
+<a href="http://www.statsoc.org.au/">
+<img style="float: center;" src="/img/sponsors/SAI.jpg", class="sponsors">
+</a>
+<br>
+<br>
