@@ -3,10 +3,15 @@ title = "Registration"
 description = "Registration page"
 +++
 
-### Please note that the registration page does not work if you are using Internet Explorer.  Please register using Safri, Chrome, or Firefox
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
+  <!--[if lt IE10]>
+	<h3 style="color:red;"> Please note that the registration page does not work if you are using Internet Explorer. <br> Please register using Safari, Chrome, or Firefox </h3>
+  <![endif]-->
+  
+<!-- Please note that the registration page does not work if you are using Internet Explorer.  Please register using Safari, Chrome, or Firefox  -->
 
 
-### There are four levels of registration
+### Registration Options
 - Student with dinner: **$200.00 + GST**
 - Student without dinner: **$130.00 + GST**
 - Non Student with dinner: **$400.00 + GST**
@@ -32,4 +37,3 @@ All prices are in Australian Dollars (AUD). Proof of Student enrollment must be 
 	</a>
 	</p>
 </div>
-
