@@ -173,7 +173,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Invited Speakers"
-
+    subtitle = ""
 
 [params.see_more]
     enable = true
