@@ -1,6 +1,6 @@
 +++
 title = "Sponsors"
-description = "Frequently asked questions"
+description = "Sponsors of this Symposium listed below"
 keywords = ["Sponsors","Who","money"]
 +++
 
@@ -22,7 +22,7 @@ keywords = ["Sponsors","Who","money"]
 <br>
 <br>
 <a href="http://www.statsoc.org.au/">
-<img style="float: center;" src="/img/sponsors/SAI.jpg", class="sponsors">
+<img style="float: center;" src="/img/sponsors/SSAI.png", class="sponsors">
 </a>
 <br>
 <br>
