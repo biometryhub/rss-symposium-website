@@ -8,9 +8,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # BH logo only on contact us
 # Logos:
 #	WRI
-#	School Maths, Uni of Canterbury
 #	GRDC TBC
-# Waite building vanishes after 3 scrolls
+#	Centre align on front page
+# Waite building vanishes after 3 scrolls - adblocker
 
 
 ##### Pete To Do #####
