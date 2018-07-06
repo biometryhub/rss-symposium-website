@@ -18,7 +18,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Host presentations afterwards somewhere
 # Reduce copyright spacing
 # Fix header spacing
-# Hosted by BH in heading
 # Fix menu bar for mobile screens - invert button colour or fill image up
 
 
@@ -26,7 +25,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #venue is plant genomics building waite campus adelaide
 #Make "speaker bios" better
 #presenters names title first last all separate line
-#put a separate heading "recommended stays" "majestif roof garden (with link)
+#put a separate heading "recommended stays" "majestic roof garden (with link)
 #Delete website under construction
 #Add contributed talks/speakers as needed
 
@@ -120,7 +119,7 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "" 
+    #logo = "" 
 	#"img/logo.png"
 	
     address = """<p><strong>The Biometry Hub</strong>
