@@ -5,23 +5,30 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ##### Sam To Do #####
 # Generate table with https://www.tablesgenerator.com/markdown_tables
-# BH logo only on contact us
+# BH logo down in footer only
 # Logos:
 #	WRI
 #	GRDC TBC
 #	Centre align on front page
 # Waite building vanishes after 3 scrolls - adblocker
-# Update Olena's photo
+# Olena photo too long
+# Add text about sponsors from OK
+# Place for abstracts
+#	 In program table?
+# Host presentations afterwards somewhere
+# Reduce copyright spacing
+# Fix header spacing
+# Hosted by BH in heading
+# Fix menu bar for mobile screens - invert button colour or fill image up
 
 
 ##### Pete To Do #####
-#Put biometrytraining@adelaide email on abstracts
-#put position titles and bios on
-
-
-##### Olena #####
-
-
+#venue is plant genomics building waite campus adelaide
+#Make "speaker bios" better
+#presenters names title first last all separate line
+#put a separate heading "recommended stays" "majestif roof garden (with link)
+#Delete website under construction
+#Add contributed talks/speakers as needed
 
 
 languageCode = "en-au"
@@ -65,7 +72,7 @@ paginate = 10
     weight = 5
 	
 [[menu.main]]
-    name = "Travel"
+    name = "Travel and Accomodation"
     url  = "/travel/"
     weight = 6
 	
