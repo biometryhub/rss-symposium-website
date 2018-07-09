@@ -24,6 +24,9 @@ Adelaide is a lovely city to visit with stunning gardens dotted throughout the c
 
 [Trip advisor](https://www.tripadvisor.com.au/Hotels-g255093-Adelaide_Greater_Adelaide_South_Australia-Hotels.html) recommends the following near by hotels.
 
+## Recommended stays
+- [Majestic Roof Garden](https://www.roofgardenhotel.com.au/)
+
 ## Luxury stays
 - [Intercontinental Hotel](https://www.ihg.com/intercontinental/hotels/gb/en/adelaide/adlha/hoteldetail)
 - [Hilton Hotel](http://www3.hilton.com/en/hotels/south-australia/hilton-adelaide-ADLHITW/index.html)

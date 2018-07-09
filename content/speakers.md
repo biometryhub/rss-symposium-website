@@ -1,5 +1,5 @@
 +++
-title = "Speaker Bios"
+title = "About our speakers"
 description = "Speaker Bios"
 +++
 

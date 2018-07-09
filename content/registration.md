@@ -28,7 +28,11 @@ All prices are in Australian Dollars (AUD). Proof of Student enrollment must be 
 - Entry to all talks (TBA)
 - Access to all uploaded talks
 
-#### Symposium venue and dinner details are TBA.
+### Symposium venue
+Plant Genomics building - Waite Agricultural University [E 4 grid](https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf)
+
+
+### Dinner details TBA.
 
 <div class="col-sm-12 text-center">
 <p class="text-large">

@@ -19,14 +19,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Reduce copyright spacing
 # Fix header spacing
 # Fix menu bar for mobile screens - invert button colour or fill image up
-
+# presenters names title first last all separate line....Not allowing me to make a new line in 1.yaml.  Asked Lachie.  He said potentially impossible.
 
 ##### Pete To Do #####
-#venue is plant genomics building waite campus adelaide
-#Make "speaker bios" better
-#presenters names title first last all separate line
-#put a separate heading "recommended stays" "majestic roof garden (with link)
-#Delete website under construction
 #Add contributed talks/speakers as needed
 
 
