@@ -5,25 +5,31 @@ description = "Speaker Bios"
 
 # Speaker list
 
+<br>
 ## Doug Wolfe
 #### Professor Emeritus Statistics at Ohio State University
 
+<br>
 ## [Omer Ozturk](https://stat.osu.edu/people/ozturk.4)
 #### Professor of Statistics at Ohio State University
 Omer Ozturk is a Professor of Statistics in the Department of Statistics at The Ohio State University.  His research interest in statistics lies in developing inference under a set of relaxed distributional assumptions that may include parametric, nonparametric and robust inference under different sampling conditions.  
 He currently serves as an associate editor for [Environmental and Ecological Statistics](https://link.springer.com/journal/10651), [Statistics and Probability Letters](https://www.journals.elsevier.com/statistics-and-probability-letters), [
 Communications in Statistics: Case Studies, Data Analysis and Applications](https://www.tandfonline.com/toc/ucas20/current), [Simulation and Computation](https://www.tandfonline.com/toc/lssp20/current), and [Theory and Methods](https://www.tandfonline.com/toc/lsta20/current).  
 He is frequently invited to US Census Bureau as a Summer at Census Scholar. He is an elected fellow of the American Statistical Association.
- 
+
+<br>
 ## Jennifer Brown
 #### Professor of Statistics at the University of Canterbury
- 
+
+<br>
 ## Amer Ibrahim Al-Omari
 #### Professor of Statistics at Al al-Bayt University
 
+<br>
 ## Olena Kravchuk
 #### Senior Lecturer in Biometry and Head of the Biometry Hub at the University of Adelaide
  
+<br>
 ## [You-Gan Wang](http://scholar.google.com.au/citations?user=MNUkTMQAAAAJ&hl=en)
 #### Professor of Data Science at Queensland University of Technology
 Professor Wang is a Capacity Building Professor in Data Science at the Queensland University of Technology (QUT). After his PhD from the University of Oxford, he worked for CSIRO, Australia, the National University of Singapore, Harvard University, and the University of Queensland as the Director of the Centre for Applications in Natural Resource Mathematics.  
@@ -33,11 +39,15 @@ and his work is usually motivated by practical need and has been published in [B
 [Statistics in Medicine](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291097-0258) and [Biostatistics](http://biostatistics.oxfordjournals.org/). In knowledge-based applied statistics, he has contributed as a lead author in publication in life sciences, including publications by [Journal of Hydrology](http://www.journals.elsevier.com/journal-of-hydrology/) , 
 [Water Resources Research](http://www.agu.org/journals/wr/index.shtml), [Geophysical Research Letters](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291944-8007),  [Environmental Science & Technology](http://pubs.acs.org/journal/esthag), [Phytopathology](http://www.apsnet.org/publications/phytopathology/Pages/default.aspx), and [Fisheries](http://www.tandfonline.com/toc/ufsh20/current).   
 
- 
+<br>
 ## Raymond Correll
 #### Principal Statistician at Rho Environmetrics
  
+<br>
 ## [Richard Jarrett](https://scholar.google.com.au/citations?user=QlcqwIEAAAAJ&hl=en)
 #### Professor of Statistics (retired) at the University of Adelaide
 Richard Jarrett retired from CSIRO Mathematical and Information Sciences in 2013, having worked there for 30 years. He was also Professor of Statistics at the University of Adelaide 1990-1999. His main fields of interest are risk analysis, quality improvement and experimental design. Richard has published more than 80 research papers and technical reports.  
 Currently, he is a senior advisor on a Statistics for the Australian Grains Industry project in the University of Adelaide, providing his expert opinion on the design of complex agricultural experiments and mentoring young biometricians by upskilling them in the design and analysis paradigms. 
+
+<br>
+<br>
