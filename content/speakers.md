@@ -26,8 +26,9 @@ He is frequently invited to US Census Bureau as a Summer at Census Scholar. He i
 #### Professor of Statistics at Al al-Bayt University
 
 <br>
-## Olena Kravchuk
+## [Olena Kravchuk](https://scholar.google.com.au/citations?user=zrKikFgAAAAJ&hl=en)
 #### Senior Lecturer in Biometry and Head of the Biometry Hub at the University of Adelaide
+ Dr Olena Kravchuk is a teaching and research academic in the School of Agriculture, Food and Wine, Waite Campus, University of Adelaide, where she is leading a research and consulting statistics group, The Biometry Hub. Olena’s range of qualifications include Masters of Engineering (Automative Control Systems), Masters of Applied Mathematics and PhD in Statistics. She is interested in rank methods in application to heavy-tailed and mixture distributions, and in robust statistical methods in general. In 2003 – 2011, Olena established a research program in Food Sensory and Sensometrics in the University of Queensland, and in 2011 – 2018, a research program in Statistics for Agriculture Field Research in the University of Adelaide. She has published 90+ research papers, and two book chapters. Olena collaborates successfully with agriculture industries and life scientists from many fields, translating their research questions and practical constraints in formal statistical settings.
  
 <br>
 ## [You-Gan Wang](http://scholar.google.com.au/citations?user=MNUkTMQAAAAJ&hl=en)
@@ -40,9 +41,10 @@ and his work is usually motivated by practical need and has been published in [B
 [Water Resources Research](http://www.agu.org/journals/wr/index.shtml), [Geophysical Research Letters](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291944-8007),  [Environmental Science & Technology](http://pubs.acs.org/journal/esthag), [Phytopathology](http://www.apsnet.org/publications/phytopathology/Pages/default.aspx), and [Fisheries](http://www.tandfonline.com/toc/ufsh20/current).   
 
 <br>
-## Raymond Correll
+## [Raymond Correll](https://www.researchgate.net/profile/Raymond_Correll)
 #### Principal Statistician at Rho Environmetrics
- 
+ Dr Ray Correll started his professional career as a quantitative plant ecologist working in the semi-arid zones of South Australia. He then took a position at James Cook University in Townsville in biology but found he was doing more biology as a statistician than he was as an ecologist. He undertook studies in statistics on a sabbatical leave and was offered a position as a consulting statistician in CSIRO in Adelaide – a position he held for over 30 years. Since retiring from CSIRO he has been consulting as Rho Environmetrics. Ray has a particular interest in sampling and his projects have included quarantine, water quality sampling and monitoring and soil diseases assessment. He has given courses emphasising practical applications, including quarantine, water quality sampling and monitoring and soil diseases assessment.
+
 <br>
 ## [Richard Jarrett](https://scholar.google.com.au/citations?user=QlcqwIEAAAAJ&hl=en)
 #### Professor of Statistics (retired) at the University of Adelaide
