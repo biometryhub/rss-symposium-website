@@ -6,8 +6,9 @@ description = "Speaker Bios"
 # Speaker list
 
 <br>
-## Doug Wolfe
+## [Doug Wolfe](https://www.researchgate.net/profile/Douglas_Wolfe2)
 #### Professor Emeritus Statistics at Ohio State University
+Professor Wolfe is a Professor and Chair Emeritus in the Department of Statistics, The Ohio State University, USA. Prof Wolfe is a member of the International Statistical Institute and a Fellow of the Institute of Mathematical Statistics and the American Statistical Association, and is the past Chair of the Nonparametric  Statistics Section of  the American Statistical Association. Over his exciting academic career of almost 50 years, Prof Wolfe has published more than 100 research papers, graduated 5 MSc and 26 PhD students, and is a co-author of five statistical texts. His research publications appear in Statistica Neerlandica, Journal of Nonparametric Statistics, Biometrics, Journal of Statistical Planning and Inference, Journal of Agriculture and Biological Statistics and others. Prof Wolfe served as an associate editor for the American Statistician (1974 – 79) and the Journal of the American Statistical Association (1991 – 96).
 
 <br>
 ## [Omer Ozturk](https://stat.osu.edu/people/ozturk.4)
@@ -18,12 +19,17 @@ Communications in Statistics: Case Studies, Data Analysis and Applications](http
 He is frequently invited to US Census Bureau as a Summer at Census Scholar. He is an elected fellow of the American Statistical Association.
 
 <br>
-## Jennifer Brown
+## [Jennifer Brown](https://www.researchgate.net/profile/Jennifer_Brown52)
 #### Professor of Statistics at the University of Canterbury
+Professor Jennifer Brown is an applied statistician at the University of Canterbury. Jennifer is currently the Head of School of Mathematics and Statistics there, is the past president of the New Zealand Statistical Association. She is currently an Associate Editor of the [Journal of Agricultural, Biological and Environmental Statistics](https://www.springer.com/statistics/journal/13253), the [Australian and New Zealand Journal of Statistics](https://onlinelibrary.wiley.com/journal/1467842x), [Environmental and Ecological Statistics](https://link.springer.com/journal/10651), the [International Journal of Ecological Economics & Statistics](http://www.ceser.in/ceserp/index.php/ijees), the Journal of Methodological and Applied Statistics, the [Journal of the Indian Society of Agricultural Statistics](http://epubs.icar.org.in/ejournal/index.php/JISAS), the [International Journal of Mathematics and Statistics](http://www.ceser.in/ceserp/index.php/ijms/index), and the [Journal of Biowar and Defence](http://www.avensonline.org/biology/biowar-biodefence/home-21).
+Jennifer’s research interests are in environmental statistics and she has specialised in adaptive sampling designs. Her background is in both ecology and statistics, underlying her involvement in designing long term monitoring surveys in New Zealand, USA, France and Qatar.
+Professor Brown has published about 100 research papers in Biometrics, Population Ecology, Environmental and Ecological Statistics, and others.
+
 
 <br>
-## Amer Ibrahim Al-Omari
+## [Amer Ibrahim Al-Omari](https://scholar.google.com.au/citations?user=S3CcDgIAAAAJ&hl=en)
 #### Professor of Statistics at Al al-Bayt University
+Professor Amer Al-Omari is a Professor of Statistics and Vice Dean of Academic Research in Al al-Bayt University, Jordan. Amer graduated in 2007 with a PhD in multistage ranked set sampling, and seen has published about 100 research papers in statistics, He has recently published with Elsevier a text (co-authored with Bouza) on Ranked Set Sampling. [[Al-Omari, A.I., and Bouza, C.N. (2018). Ranked Set Sampling, Elsevier](https://www.elsevier.com/books/ranked-set-sampling/bouza-herrera/978-0-12-815044-3)]. Prof Al-Omari has an extensive and expressive experience in mathematical and statistical education at the undergraduate and postgraduate levels, and graduated three MSc research students. Prof Al-Omari is an elected member of the International Statistical Institute, and a member of the Union of Arab Statisticians. He is an associate editor for the Journal of Applied Probability and Statistics and on editorial boards for the Electronic Journal of Applied Statistical Analysis,  Revista Investigacin Operacional and International Journal of Algebra and Statistics.  Prof Al-Omari’s research interests are in statistical sampling, statistical quality control and applied statistics.
 
 <br>
 ## [Olena Kravchuk](https://scholar.google.com.au/citations?user=zrKikFgAAAAJ&hl=en)
@@ -43,7 +49,7 @@ and his work is usually motivated by practical need and has been published in [B
 <br>
 ## [Raymond Correll](https://www.researchgate.net/profile/Raymond_Correll)
 #### Principal Statistician at Rho Environmetrics
- Dr Ray Correll started his professional career as a quantitative plant ecologist working in the semi-arid zones of South Australia. He then took a position at James Cook University in Townsville in biology but found he was doing more biology as a statistician than he was as an ecologist. He undertook studies in statistics on a sabbatical leave and was offered a position as a consulting statistician in CSIRO in Adelaide – a position he held for over 30 years. Since retiring from CSIRO he has been consulting as Rho Environmetrics. Ray has a particular interest in sampling and his projects have included quarantine, water quality sampling and monitoring and soil diseases assessment. He has given courses emphasising practical applications, including quarantine, water quality sampling and monitoring and soil diseases assessment.
+Dr Ray Correll started his professional career as a quantitative plant ecologist working in the semi-arid zones of South Australia. He then took a position at James Cook University in Townsville in biology but found he was doing more biology as a statistician than he was as an ecologist. He undertook studies in statistics on a sabbatical leave and was offered a position as a consulting statistician in CSIRO in Adelaide – a position he held for over 30 years. Since retiring from CSIRO he has been consulting as Rho Environmetrics. Ray has a particular interest in sampling and his projects have included quarantine, water quality sampling and monitoring and soil diseases assessment. He has given courses emphasising practical applications, including quarantine, water quality sampling and monitoring and soil diseases assessment.
 
 <br>
 ## [Richard Jarrett](https://scholar.google.com.au/citations?user=QlcqwIEAAAAJ&hl=en)
