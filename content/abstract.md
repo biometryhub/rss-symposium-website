@@ -3,7 +3,8 @@ title = "Abstract Submission"
 description = "Upload abstract"
 +++
 
-- Please fill out the form below with your details, and paste your abstract into the field provided.
+- Please fill out the form below with your details.
+- Paste your presentation or poster abstract into the field provided.
 - Suggested abstract length is 150 words.
 - Formatting is not preserved in this form.
 - If any issues are encountered please get in touch with us via the link on the contact page.
