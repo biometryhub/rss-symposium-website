@@ -3,6 +3,9 @@ title = "Abstract Submission"
 description = "Upload abstract"
 +++
 
-### Submit the abstract to your talk here (Link coming)
-- Up to 20 contributing talks
-- Link to poster registration coming
+- Please fill out the form below with your details, and paste your abstract into the field provided.
+- Suggested abstract length is 150 words.
+- Formatting is not preserved in this form.
+- If any issues are encountered please get in touch with us via the link on the contact page.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeJMh0jj3-W8UK-Kyvx29ez192ipD9IBTkL8YwIcGxz1najLg/viewform?embedded=true" width="1000" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
