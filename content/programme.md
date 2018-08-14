@@ -11,28 +11,39 @@ This schedule is tentative, and every session includes up to two conributing tal
 ------ | ------- | -------
 08:30 - 09:00 | Registration and Networking | 
 9:00 – 9:30 | Reflecting on thoughts and writing by G.A. McIntyre | Olena Kravchuk
-9:30 – 11:00 | Current trends in RSS relevant to agriculture, environment and natural resources | Doug Wolfe
-11:00 – 11:30 | Morning tea break |
-11:30 – 13:00 | Adoption of RSS in agriculture and natural resources | Olena Kravchuk, You-Gan Wang
-13:00 – 14:00 | Lunch |
-14:00 – 15:30 | Variance estimation in RSS | Richard Jarrett
-15:30 – 17:00 | Afternoon tea and networking with Agricultural Scientists |
-18:30 – 21:30 | Symposium dinner |
+9:30 – 10:20 | Current trends in RSS relevant to agriculture, environment and natural resources | Doug Wolfe
+10:20 - 10:40 | Contributing talk |
+10:40 - 11:00 | Contributing talk |
+11:00 – 11:30 | Morning tea
+11:30 – 12:10 | Embedding experimental designs in RSS in field trials | Olena Kravchuk, You-Gan Wang
+12:10 – 13:00 | Embedding experimental designs in RSS in field trials | Richard Jarrett, Olena Kravchuk
+13:00 – 14:00 | Lunch 
+14:00 – 14:30 | Typical field sampling in agriculture research | Ray Correll, Peter Kasprzak
+14:30 – 14:50 | Contributing talk |
+14:50 – 15:10 | Contributing talk |
+15:10 – 17:30 | Afternoon tea and networking with Agricultural and Biological Scientists
+18:30 – 21:30 | Symposium dinner at Edinburgh Hotel
 
 ## Day 2 - 28th September 2018
 
  Time | Title | Presenter 
 ------ | ------- | -------
-9:00 – 9:30 | Reflection on the adoption of best practice of sampling in field research and consulting | Ray Correll
-9:30 – 11:00 | Adoption of RSS in ecological surveys | Jennifer Brown
-11:00 – 11:30 | Morning tea |
-11:30 – 13:00 | Design-based inference for RSS | Omer Ozturk
-13:00 – 14:00 | Lunch |
-14:00 – 15:30 | Ranking methodologies for quantile estimation in application to agriculture and natural sciences | Amer Al-Omari
-15:30 – 16:00 | Afternoon tea |
-16:00 – 17:30 | RSS in Big Data in plant and animal genetics | TBA
-17:30 – 19:30 | Symposium closing | Farewell drinks
-19:30 – 21:30 | Webinar, reflecting on the discussions in the Symposium | Jennifer Brown, Olena Kravchuk, Zehua Chen
-  
+9:30 – 10:20 | Adoption of RSS in ecological and field surveys | Jennifer Brown, Ray Correll
+10:20 - 10:40 | Contributing talk |
+10:40 - 11:00 | Contributing talk |
+11:00 – 11:30 | Morning tea 
+11:30 – 12:20 | Design-based inference for RSS | Omer Ozturk
+12:20 – 12:40 | Contributing talk |
+12:40 – 13:00 | Contributing talk |
+13:00 – 14:30 | Lunch 
+14:30 - 15:10 | Ranking methodologies in RSS | Amer Al-Omari
+15:10 – 15:30 | Contributing talk |
+15:30 – 15:50 | Contributing talk |
+15:50 – 16:10 | Contributing talk |
+16:10 – 16:40 | Afternoon tea
+16:40 – 17:40 | RSS and Big Data in human, plant and animal genetics | Andy Timmins, Rick Tearle, Stephen Pederson 
+17:40 – 19:30 | Symposium closing. Farewell drinks. Science networking.
+19:30 – 21:30 | Webinar, reflecting on the discussions in the Symposium | Facilitators: Jennifer Brown and Olena Kravchuk
+29/09/2018 | Post-Symposium field tours; social program
 <br>
 Presentations will be uploaded to the website at the end of the symposium.
