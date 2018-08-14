@@ -16,7 +16,7 @@ This schedule is tentative, and every session includes up to two conributing tal
 10:40 - 11:00 | Contributing talk |
 11:00 – 11:30 | Morning tea
 11:30 – 12:10 | Embedding experimental designs in RSS in field trials | Olena Kravchuk, You-Gan Wang
-12:10 – 13:00 | Embedding experimental designs in RSS in field trials | Richard Jarrett, Olena Kravchuk
+12:10 – 13:00 | Embedding RSS in experimental designs in field trials | Richard Jarrett, Olena Kravchuk
 13:00 – 14:00 | Lunch 
 14:00 – 14:30 | Typical field sampling in agriculture research | Ray Correll, Peter Kasprzak
 14:30 – 14:50 | Contributing talk |
