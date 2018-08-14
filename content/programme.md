@@ -41,7 +41,7 @@ This schedule is tentative, and every session includes up to two conributing tal
 15:30 – 15:50 | Contributing talk |
 15:50 – 16:10 | Contributing talk |
 16:10 – 16:40 | Afternoon tea
-16:40 – 17:40 | RSS and Big Data in human, plant and animal genetics | Andy Timmins, Rick Tearle, Stephen Pederson 
+16:40 – 17:40 | RSS and Big Data in human, plant and animal genetics | TBA
 17:40 – 19:30 | Symposium closing. Farewell drinks. Science networking.
 19:30 – 21:30 | Webinar, reflecting on the discussions in the Symposium | Facilitators: Jennifer Brown and Olena Kravchuk
 29/09/2018 | Post-Symposium field tours; social program
