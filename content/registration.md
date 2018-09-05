@@ -12,24 +12,26 @@ description = "Registration page"
 
 
 ### Registration Options
-- Student with dinner: **$200.00 + GST**
+- One day without dinner: **$200.00 + GST**
+- One day with dinner: **$270.00 + GST**
 - Student without dinner: **$130.00 + GST**
-- Non Student with dinner: **$400.00 + GST**
+- Student with dinner: **$200.00 + GST**
 - Non Student without dinner: **$330.00 + GST**
+- Non Student with dinner: **$400.00 + GST**
 
-All prices are in Australian Dollars (AUD). Proof of Student enrollment must be provided upon registration as a student.
+All prices are in Australian Dollars (AUD). Proof of Student enrollment must be provided upon registration as a student. <br><br>
+If registering for one day, please specify which day in the comments section at checkout.
 
 
 
 ### Registration includes
-- Morning tea on both days
-- Lunch on both days
-- Entry to all workshops (TBA)
-- Entry to all talks (TBA)
+- Morning tea on day(s) registered
+- Lunch on day(s) registered
+- Entry to all talks
 - Access to all uploaded talks
 
 ### Symposium venue
-Plant Genomics building - Waite Agricultural University [E 4 grid](https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf)
+Plant Genomics building, Waite Agricultural Campus, University of Adelaide [E 4 grid](https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf)
 
 
 ### Dinner details TBA.
