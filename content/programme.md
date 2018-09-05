@@ -41,7 +41,7 @@ This schedule is tentative, and every session includes up to two conributing tal
 18:00 – 19:30 | Farewell drinks, Science networking
 19:30 – 21:30 | Webinar: reflecting on the discussions in the Symposium | Facilitators: Jennifer Brown and Olena Kravchuk <br> Contributors: Zehua Chen, You-Gan Wang
 
-## Day 2 - 29th September 2018
+## Day 3 - 29th September 2018
  Time | Title | Presenter 
 ------ | ------- | -------
 Full day | Post-Symposium sampling tour in Adelaide Hills |  Ray Correll and Peter Kasprzak
