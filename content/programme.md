@@ -36,7 +36,7 @@ This schedule is tentative, and every session includes up to two conributing tal
 14:50 – 15:10 | Contributing talk | TBA
 15:10 – 15:30 | Contributing talk | TBA
 15:00 – 15:30 | Afternoon tea |
-15:30 – 17:30 | Round-table discussion on sampling and survey methodology in the practice of agriculture research and education in South-East Asia |
+15:30 – 17:30 | Round-table discussion on sampling and survey methodology in the practice of agriculture research <br> and education in South-East Asia |
 17:30 – 17:40 | Symposium closing |
 18:00 – 19:30 | Farewell drinks, Science networking |
 19:30 – 21:30 | Webinar: reflecting on the discussions in the Symposium | Facilitators: Jennifer Brown and Olena Kravchuk <br> Contributors: Zehua Chen, You-Gan Wang |

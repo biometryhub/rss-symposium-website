@@ -23,7 +23,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ##### Pete To Do #####
 #Add contributed talks/speakers as needed
-
+#Add abstracts linked from program
+#Book the room for the Ed approx 30 people, quotes for function room and regular area 
 
 languageCode = "en-au"
 # Site language. Available translations in the theme's `/i18n` directory.
