@@ -44,6 +44,13 @@ This schedule is tentative, and every session includes up to two conributing tal
 ## Day 3 - 29th September 2018
  Time | Title | Presenter 
 ------ | ------- | -------
-Full day | Post-Symposium sampling tour in Adelaide Hills |  Ray Correll and Peter Kasprzak
+10:00 | Depart Hotel |
+11:00 | Vineyard visit and talk about sampling for phylloxera <br> (soil coring – placing of core – targeted sampling not representative but good for quarantine) | Ray Correll
+12:00 | Field site inspection – discuss philosophy of trial design. <br> emergence sampling, dry weight sampling, harvest data, extrapolation from plots to field | Ray Correll
+13:00 - 14:00 | Lunch at Sedan
+14:00 - 14:30 | Examine hay bailing and sampling issues | Ray Correll
+14:30 – 14:45 | Sampling for rare weeds | Ray Correll
+15:00 | Palmer Field site, soil core sampling, sampling for patchiness, on-off row sowing with GPS tracking | Ray Correll
+16:00 | Afternoon tea in Adelaide Hills
 <br>
 ## Presentations will be uploaded to the website at the end of the symposium.

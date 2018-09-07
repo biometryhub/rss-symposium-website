@@ -25,6 +25,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #Add contributed talks/speakers as needed
 #Add abstracts linked from program
 #Book the room for the Ed approx 30 people, quotes for function room and regular area 
+#Put the sampling tour in the program in the same formatting
+#Get a list of people for RSS big data microarray etc
 
 languageCode = "en-au"
 # Site language. Available translations in the theme's `/i18n` directory.
