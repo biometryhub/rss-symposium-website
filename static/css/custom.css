@@ -169,11 +169,13 @@ div.section {
 table {
     border-collapse: collapse;
 	border: 0.5px solid #999;
+	min-width: 100%;
 }
 
 th {
 	background-color: #acd2b5; /* or #6aae7a? */
     color: black;
+	/*width: 100px;*/
 }
 
 th, td {
@@ -182,6 +184,10 @@ th, td {
 }
 
 tr:nth-child(even) {background-color: #f2f2f2;}
+
+table.cll td:nth-child(1) {
+  text-align: left;
+}
 
 /* For images on the travel page */
 
