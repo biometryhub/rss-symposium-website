@@ -1,6 +1,6 @@
 +++
-title = "Schedule"
-description = "Schedule for the Symposium"
+title = "Program and abstracts"
+description = "Schedule for the Symposium and link to abstracts"
 +++
 
 This schedule is tentative, and every session includes up to two conributing talks.
@@ -16,8 +16,9 @@ This schedule is tentative, and every session includes up to two conributing tal
 12:00 – 12:30 | Embedding  Ranked Set Sampling in design of experiment | Richard Jarrett 
 12:30 – 13:00 | Commonalities between Latin Squares Sampling and Ranked Set Sampling | Ray Correll
 13:00 – 14:00 | Lunch
-14:00 – 14:30 | Working together on creating Ranked Set Sampling designs: researcher-statistician knowledge transfer | Olena Kravchuk
-14:30 – 17:30 | Round-table discussion with Agricultural and Biological Scientists and grain growers
+14:00 – 17:30 | Round-table discussion at Aroma Café, Waite Campus, Uni of Adelaide |
+<i> 14:00 – 14:30 </i> | Working together on creating Ranked Set Sampling designs: researcher-statistician knowledge transfer | Olena Kravchuk
+<i> 14:30 - 17:30 </i> | Round-table discussion with Agricultural and Biological Scientists and grain growers
 18:30 – 21:30 | Symposium dinner at Edinburgh Hotel
 
 ## Day 2 - 28th September 2018
@@ -28,18 +29,18 @@ This schedule is tentative, and every session includes up to two conributing tal
 10:30 – 11:00 | Morning tea |
 11:00 – 12:00 | Adoption of RSS in ecological and field surveys | Jennifer Brown, Ray Correll
 12:00 – 12:20 | Case-studies of typical agronomy sampling | Peter Kasprzak, Ray Correll
-12:20 – 12:40 | Translating theory of General RSS into applications: an example | Olena Kravchuk, You-Gan Wang
-12:40 – 13:00 | Shiny RSS app for a dialogue with field researchers | Peter Kasprzak
+12:20 – 12:40 | Latency of Fruit Yield Response to the Environmental Factors | Myung Hwan Na
+12:40 – 13:00 | Big data and HPC in grains research | Andy Timmins
 13:00 – 14:00 | Lunch & Poster session |
-14:00 – 14:30 | RSS in Big Data in plant science and agriculture field research | TBA
+14:00 – 14:30 | The use of Coombe vineyard in teaching and professional development training in field sampling | Olena Kravchuk, Eileen Scott
 14:30 – 14:50 | Multiphase Design and Linear Mixed Model, Analysis of NIR Scanning Data | Sharon Nielsen
-14:50 – 15:10 | Contributing talk | TBA
-15:10 – 15:30 | Contributing talk | TBA
+14:50 – 15:10 | Shiny RSS app for a dialogue with field researchers | Peter Kasprzak
+15:10 – 15:30 | Modern technology in field sampling | Rhiannon Schilling
 15:00 – 15:30 | Afternoon tea |
 15:30 – 17:30 | Round-table discussion on sampling and survey methodology in the practice of agriculture research <br> and education in South-East Asia |
 17:30 – 17:40 | Symposium closing |
 18:00 – 19:30 | Farewell drinks, Science networking |
-19:30 – 21:30 | Webinar: reflecting on the discussions in the Symposium | Facilitators: Jennifer Brown and Olena Kravchuk <br> Contributors: Zehua Chen, You-Gan Wang |
+19:30 – 21:30 | Webinar: reflecting on the discussions in the Symposium | Facilitators: Jennifer Brown and Olena Kravchuk
 
 ## Day 3 - 29th September 2018
  Time | Title | Presenter 
