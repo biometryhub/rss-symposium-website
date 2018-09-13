@@ -26,7 +26,7 @@ All prices are in Australian Dollars (AUD). Proof of Student enrollment must be 
 Plant Genomics building - Waite Agricultural University [E 4 grid](https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf)
 
 
-### Dinner details TBA.
+### Dinner will be at the [Edinburgh Hotel](https://www.edinburgh.com.au/) .
 
 <div class="col-sm-12 text-center">
 <p class="text-large">
