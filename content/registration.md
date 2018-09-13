@@ -16,7 +16,8 @@ description = "Registration page"
 - Student without dinner: **$130.00 + GST**
 - Non Student with dinner: **$400.00 + GST**
 - Non Student without dinner: **$330.00 + GST**
-
+- One Day with dinner : **270.00 + GST**
+- One Day without dinner : **$200.00 + GST**
 All prices are in Australian Dollars (AUD). Proof of Student enrollment must be provided upon registration as a student.
 
 
