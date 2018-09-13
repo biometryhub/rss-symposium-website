@@ -308,7 +308,7 @@ DOI:10.3844/jmssp.2007.58.64) in estimating the population mean.
 
 <tbody>
 <tr>
-<td>10:00</td>
+<td>09:30</td>
 <td>Depart Hotel</td>
 <td></td>
 </tr>
