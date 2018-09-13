@@ -120,7 +120,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <tr>
 <td>14:30 – 17:30</td>
 <td>Round-table discussion with Agricultural and Biological Scientists and grain growers</td>
-<td></td>
+<td>McLeod House Rms G1B and G1C</td>
 </tr>
 
 
