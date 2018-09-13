@@ -196,8 +196,8 @@ DOI:10.3844/jmssp.2007.58.64) in estimating the population mean.
 
 <tr class="out budgets 1collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="3">
-        This paper points out the importance of incorporating the latency of response in the prediction model of fruit yield. The plant does not response to the changes in the environmental factors immediately. To illustrate this, the response time of crop yield to a variety of environmental factors, including temperature, solar radiation and humidity, etc. is studied in particular. The data used in this research is collected from the field of farms so as to minimize the negative influence of the uncontrolled factors to the accuracy of statistical analysis. Five farms participating in this research are located in South Korea.
-</td></tr>
+		This presentation points out the importance of incorporating the latency of response in the prediction model of fruit yield. The plant does not respond to changes in environmental factors immediately. To illustrate this, the response time of crop yield to a variety of environmental factors, including temperature, solar radiation and humidity, etc. is studied in particular. The field data used in this research is collected on farms so as to minimize the negative influence of uncontrolled factors on the accuracy of statistical analysis. Five farms participating in this research are located in South Korea.
+		</td></tr>
 
 <tr>
 <td>12:40 – 13:00</td>
