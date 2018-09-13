@@ -91,7 +91,10 @@ The second part of the talk, we introduce a special design, order restricted ran
 
 <tr class="out budgets 1collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="3">
-        Abstract will go here
+        Latin square sampling is a technique described by Cochran. In common with Ranked Set Sampling (RSS) it requires there to be n2 sampling units. The units are typically defined in the field by an n-by-n grid (but not necessarily a square grid). A Latin square design is then placed on the grid, and the units with the same letter (e.g. all n B’s) are then sampled. In a situation where there is a gradient across the columns the rows are then ranked sets. In Latin square sampling the choice of units within the set is predetermined so that is a case of RSS.  
+		The mean of the Bs is not dependent on their order, so the condition of a steady gradient can be relaxed. The sets could also be defined with the gradient across the rows. Latin square sampling is therefore a 2-dimensional ranked set sampling. This small study highlights similarities between experimental design and sampling.
+
+The effectiveness of the Latin square sampling is illustrated from sampling for disease in sugar cane
 </td></tr>
 
 <tr>
@@ -185,7 +188,7 @@ DOI:10.3844/jmssp.2007.58.64) in estimating the population mean.
 
 <tr class="out budgets 1collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="3">
-        Abstract will go here
+        Two current industry standard sampling protocols were observed in mid-2018 in order to help identify possible improvements and to determine if Ranked Set Sampling (RSS) was appropriate.  The first in Ouyen Victoria looked at soil grid sampling to investigate soil nutrient and moisture levels resulting from treatments in a randomised complete block design.  62 plots were randomly allocated over 4 blocks in sandy soil.  The second involved investigating seed emergence counts in Roseworthy Adelaide from different seeding methods.  66 plots were randomly allocated 11 treatments in a randomised complete block design.  In each case a recommended industry protocol was followed which was critically analysed to determine if it was indeed answering the required questions driving the experiment, and whether there was room for improvement in terms of accuracy and efficiency.  In each case it was determined that there was room for improvement with respect to the current protocol and available tools.  RSS was determined to not be suitable with current tools for this case of soil sampling, but exciting opportunities exist for RSS in seed emergence sampling, involving current precision agricultural practices.
 </td></tr>
 
 <tr>

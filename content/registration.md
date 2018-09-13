@@ -22,14 +22,6 @@ description = "Registration page"
 All prices are in Australian Dollars (AUD). Proof of Student enrollment must be provided upon registration as a student.
 
 
-
-### Registration includes
-- Morning tea on both days
-- Lunch on both days
-- Entry to all workshops (TBA)
-- Entry to all talks (TBA)
-- Access to all uploaded talks
-
 ### Symposium venue
 Plant Genomics building - Waite Agricultural University [E 4 grid](https://www.adelaide.edu.au/campuses/mapscurrent/waite.pdf)
 
