@@ -106,7 +106,7 @@ The effectiveness of the Latin square sampling is illustrated from sampling for 
 <tr>
 <td>14:00 – 17:30</td>
 <td>Round-table discussion at Aroma Café, Waite Campus, Uni of Adelaide</td>
-<td></td>
+<td>McLeod House Rms G1B and G1C</td>
 </tr>
 
 <tr>
@@ -117,13 +117,19 @@ The effectiveness of the Latin square sampling is illustrated from sampling for 
 
 <tr class="out budgets 1collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="3">
-        Abstract will go here
+        Designing a robust and efficient plan for collecting research data in field, glasshouse and laboratory research is a task that requires close collaboration between biologists, statisticians and software and hardware engineers. Discipline-specific principles of data-mining and reasoning with data have to be clearly communicated between the parties involved. In a series of short exercises here, we work through statistical principles of design-based sampling and measurement error typical in field sampling.
 </td></tr>
 
 <tr>
 <td>14:30 – 17:30</td>
 <td>Round-table discussion with Agricultural and Biological Scientists and grain growers</td>
-<td>McLeod House Rms G1B and G1C</td>
+<td>Facilitator: Dr Belinda Cay, AgCommunicators</td>
+</tr>
+
+<tr>
+<td>16:50 – 17:30</td>
+<td>Refreshment and networking</td>
+<td></td>
 </tr>
 
 
