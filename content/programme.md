@@ -39,7 +39,7 @@ Please click on a talk title for the abstract.
 </td></tr>
 
 
-<<tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
+<tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
 
 <td>09:30 – 10:30</td>
 <td>Ranked Set Sampling: rationale and historical development</td>
