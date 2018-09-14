@@ -183,7 +183,14 @@ th, td {
 	padding: 5px;
 }
 
+.clickable {
+    cursor: pointer !important;
+    color: #73997C;
+}
+
+/*
 tr:nth-child(even) {background-color: #f2f2f2;}
+*/
 
 table.cll td:nth-child(1) {
   text-align: left;
