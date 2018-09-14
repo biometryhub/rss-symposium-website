@@ -28,7 +28,6 @@ Please click on a talk title for the abstract.
 
 <tr class="clickable" data-toggle="collapse" id="1" data-target=".1collapsed">
 
-
 <td>09:00 – 09:30</td>
 <td>Reflecting on thoughts and writing by G.A. McIntyre</td>
 <td>Olena Kravchuk</td>
@@ -40,13 +39,14 @@ Please click on a talk title for the abstract.
 </td></tr>
 
 
-<tr>
+<<tr class="clickable" data-toggle="collapse" id="2" data-target=".2collapsed">
+
 <td>09:30 – 10:30</td>
 <td>Ranked Set Sampling: rationale and historical development</td>
 <td>Doug Wolfe</td>
 </tr>
 
-<tr class="out budgets 1collapsed collapse" aria-expanded="false" style="height: 0px;">
+<tr class="out budgets 2collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="3">
         When McIntyre first proposed the innovative idea of ranked set sampling in 1952, I doubt that he had any idea of the impact it would eventually have on the field of statistical inference. There was a flurry of statistical activity immediately following his seminal paper, including derivation of some basic properties of mean estimation based on ranked set samples, and there were scattered applications of the methodology. However, it would take another thirty years of virtual dormancy in the field before the spark from Stokes and Sager (1988) would reignite interest in this novel approach to sampling. Additional methodological papers followed fast and furious and active research in the field continues today.
 In this talk we briefly discuss these early efforts, but our emphasis will be on the general structure of ranked set sampling and the unique properties of statistical procedures utilizing RSS data. Seldom has a statistical concept/idea presented itself with so many interesting and unique opportunities for methodological development. In the second part of the presentation, we highlight the special features and attributes of RSS that lead to both its flexibility and its effectiveness, as well as address a few issues of concern when using this approach to sampling. We then briefly discuss a number of statistical settings where RSS procedures have been studied. In the final part of the talk, we describe some RSS-inspired offshoots that have also led to substantial research development. The full extent of the impact on statistical methodology that McIntyre inspired in 1952 is yet to be realized.
