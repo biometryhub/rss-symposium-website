@@ -63,4 +63,10 @@ Currently, he is a senior advisor on a Statistics for the Australian Grains Indu
 #### Professor of Statistics at Chonnam National University, South Korea
 Professor Na graduated with the Bachelor of Science in 1989 from the Department of Mathematics Education, Seoul National University, which followed by M.Sc in 1993 and Ph.D. in 1998 from the Department of Statistics, Seoul National University. From 2003, he has joined the faculty of the Department of Statistics, Chonnam National University. His expertise is majored in the field of Statistical Quality Control (SQC) and Reliability theory. His active research areas are currently [SQC](https://www-sciencedirect-com.proxy.library.adelaide.edu.au/science/article/pii/S0378375804001971), Medical Radiation Safety, Machine learning, Agricultural Big-data analysis and more. Current research applications are in improving the productivity of greenhouse vegetables such as tomato, strawberry, mushroom; these projects are supported by the Rural Development Administration, South Korea. 
 <br>
+
+## Rhiannon Schilling
+#### Agricultural Scientist
+Rhiannon Schilling is an agricultural scientist at the Waite Research Institute of The University of Adelaide. She obtained a PhD in 2014, which involved the first field trials of genetically modified barley at saline sites in Australia. Between 2014-2016, she was a Postdoctoral Fellow on a GRDC-funded project focused on the development of salt tolerant wheat and barley. Her current research focus is to develop crop varieties with improved tolerance to subsoil constraints. She also uses unmanned aerial vehicles (UAVs) to assess the performance of wheat varieties in field trials for The South Australian Grain Industry Trust.
 <br>
+<br>
+
