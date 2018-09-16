@@ -295,20 +295,20 @@ Developing tailored solutions for field sampling in industry and research would 
 </tr>
 
 <tr class="clickable" data-toggle="collapse" id="15" data-target=".15collapsed">
-<td>15:30 – 17:30</td>
+<td>15:30 – 17:00</td>
 <td>Round-table discussion on sampling and survey methodology in the practice of agriculture research and education in South-East Asia</td>
-<td></td>
+<td>Ray Correll, Chris De Ieso, Oula Bouphakaly, Khonesavanh  Phialathounheuane, Bounsanong Chouangthavy</td>
 </tr>
 
 
 <tr>
-<td>17:30 – 17:40</td>
+<td>17:00 – 17:10</td>
 <td>Symposium closing</td>
 <td></td>
 </tr>
 
 <tr>
-<td>18:00 – 19:30</td>
+<td>18:00 – 19:00</td>
 <td>Farewell drinks & science networking</td>
 <td></td>
 </tr>
