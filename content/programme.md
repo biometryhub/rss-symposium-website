@@ -227,18 +227,56 @@ The second part of the talk, we introduce a special design, order restricted ran
 </tr>
 
 <tr class="clickable" data-toggle="collapse" id="12" data-target=".12collapsed">
-<td>14:00 – 14:30</td>
-<td>The use of Coombe vineyard in teaching and professional development training in field sampling</td>
-<td>Olena Kravchuk, Eileen Scott</td>
+<td>14:00 – 14:10</td>
+<td>Coombe vineyard as a teaching tool for sampling</td>
+<td>Olena Kravchuk</td>
 </tr>
 
 <tr class="out budgets 12collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="3">
-        Abstract will go here
+        Undergraduate teaching in Agriculture and Biological Sciences has a strong focus on project-based learning. This method of learning is also efficient in professional development programs for researchers. Incorporating field research facilities in undergraduate teaching, postgraduate research training and professional development programs provides a basis for such project-focussed teaching. In this talk, we share the story of transforming the Coombe vineyard at the Waite campus of the University of Adelaide into an education tool for teaching the principles and techniques of sampling. The vineyard was planted about 30 years ago. The block allocated for this project contains 352 individual vines of eight rootstocks of Shiraz. The vines are planted in adjacent pairs of panels of two plants of each rootstock, 16 panels per row, 11 rows, each row containing a complete and balanced set of rootstocks. The sampling population is scalable: 88 groups of four adjusted vines of same rootstock, 176 panels of two vines of same rootstock, 352 individual vines, about 352 x 30 shoots, about 352 x 50 bunches, and so on till one is interested in individual leaves or berries. In 2017 – 2018, teaching modules for sampling principles have been developed and incorporated in an undergraduate course for the 3d year students in BAgScience and in a workshop for researchers at the Australasian Soil Disease Conference (Adelaide, 2018). In discussions with teachers and trainers, participants designed, conducted and analysed descriptive sampling for assessing the average circumference of plant trunk. GenStat (v.17) software was used in the undergraduate project, and the survey and sampling R packages in the research workshop. We are commenting here on the teaching potentials of this project-based approach.
 </td></tr>
 
-<tr class="clickable" data-toggle="collapse" id="13" data-target=".13collapsed">
+<tr class="clickable" data-toggle="collapse" id="112" data-target=".112collapsed">
+<td>14:10 – 14:20</td>
+<td>About assessment performance in the visual estimation of areas of grape bunch defects</td>
+<td>Olena Kravchuk, Eileen Scott</td>
+</tr>
+
+<tr class="out budgets 112collapsed collapse" aria-expanded="false" style="height: 0px;">
+    <td colspan="3">
+Developing tailored solutions for field sampling in industry and research would bring most benefit to ensuring the quality and traceability of the data collected. This talk presents a reflection on the conversations between statisticians and the wine industry steering group in a research project led by Prof Scott (Professor of Plant Pathology, University of Adelaide) and sponsored by Wine Australia (Australian Government), 2014 - 2017. A series of round-table dialogues facilitated by Prof Scott allowed the statisticians to understand requirements, expectations and constraints by the industry, and the industry representatives to engage with the statistical measures of the assessment quality, tailored to the practice of assessors training. An online tool for area estimation was developed as part of the overarching project and is now available online at www.pmsassessment.com.au for grape assessment training and other use as appropriate.
+</td></tr>
+
+
+<tr class="clickable" data-toggle="collapse" id="212" data-target=".212collapsed">
+<td>14:10 – 14:20</td>
+<td>PMapp functionality improved and new smart-phone app for assessing grapevine diseases, pests and disorders </td>
+<td>Eileen Scott</td>
+</tr>
+
+<tr class="out budgets 212collapsed collapse" aria-expanded="false" style="height: 0px;">
+    <td colspan="3">
+	Diseases, pests and disorders reduce yield and quality of grapes harvested. Damage may be assessed during the growing season to support decisions about treatment options and close to harvest to inform decisions about quality and price. Many Australian wineries set thresholds for contamination or severity of damage at 3-5%, above which consignments of grapes may be downgraded or rejected. Assessment is typically based on visual inspection. A smart-phone application, PMapp, was released in 2015-16 to facilitate training and in-field assessment of powdery mildew on bunches. Feedback indicated that accuracy of the GPS was insufficient and that the app was being used to assess various diseases and pests in addition to powdery mildew.
+	An updated PMapp has been developed with improved GPS capability, typically better than 10 metres, depending on network coverage. A new app, Grape Assess, offers all the capability of the improved PMapp and allows the user to record assessments of multiple diseases and disorders, including bunch rot, downy mildew, insect damage and sunburn. Grape Assess allows the user to customise each assessment by selecting the plant part and severity categories that best suit their requirements. Both apps are linked to online resources for assessing powdery mildew pmassessment.com.au.
+</td></tr>
+
+
+<tr class="clickable" data-toggle="collapse" id="14" data-target=".14collapsed">
 <td>14:30 – 14:50</td>
+
+<td>Modern technology in field sampling</td>
+<td>Rhiannon Schilling</td>
+</tr>
+
+<tr class="out budgets 14collapsed collapse" aria-expanded="false" style="height: 0px;">
+    <td colspan="3">
+        Subsoil constraints prevent current elite wheat varieties from achieving their grain yield potential. This study uses drones to non-destructively assess the growth and spectral reflectance of wheat in field trials with dispersive subsoils. Trials at Mallala and Roseworthy were imaged using 3DR Iris+ quadcopters fitted with a Sony RX100 III red-green-blue (RGB) camera and a MicaSense® multispectral camera at stem elongation and anthesis. Both trials had 41 bread and durum wheat varieties and a destructive trial of 12 bread wheat varieties. Values for canopy biomass, height and spectral reflectance indices were derived from drone images for each plot. Ground measurements of plant height, leaf greenness and multispectral information using a FieldSpec® were recorded for each plot. Shoot biomass cuts were collected in the destructive trial at both time-points. Variation between wheat varieties for height, biomass and multispectral indices was detected at both sites. Plant height measured using a ruler was correlated to canopy height obtained from RGB images with an R2 = 0.92 at Roseworthy and R2 = 0.61 at Mallala. The fresh weight of biomass from destructive plots was correlated to the canopy biomass derived from RGB images with an R2 = 0.62 at Roseworthy and R2 = 0.75 at Mallala. Changes in plant height and biomass between stem elongation and anthesis suggest drones fitted with RGB cameras will be useful to non-destructively measure wheat growth through time in the field. Further research is underway to measure additional time-points of biomass throughout the growing season.
+</td></tr>
+
+
+<tr class="clickable" data-toggle="collapse" id="13" data-target=".13collapsed">
+<td>15:10 – 15:30</td>
 <td>Shiny RSS app for a dialogue with field researchers</td>
 <td>Peter Kasprzak</td>
 </tr>
@@ -248,16 +286,7 @@ The second part of the talk, we introduce a special design, order restricted ran
         It is well recognised that collaboration between statisticians and researchers is needed for designing a research study in which statistical reasoning can be proficiently exercised. Shiny is an R package that allows the creation of interactive web based applications without the need for other computing languages.  Non-statisticians can input parameters into a pre-programed R framework and view the results in real time.  Without the need for extended face-to-face consultations, the opportunity is enabled to guide a dialogue with field researchers through designing real-life sampling protocols, as well as to gather their expert knowledge for statistical simulations.  Such a dialogue with field researchers can be opened in a space where commonly accepted generic protocols are seldom revisited.  In this talk we are presenting an example of a Shiny app, which can also compare various sampling schemes, including balanced Ranked Set Sampling. We discuss how this approach can re-elevate the conversation about how data is gathered and alternative solutions.  We suggest that an immediate extension for this collaborative dialogue tool is to enable the user to make use of already in place data gathering automated tools. The latter, we believe will provide direct benefits to implementing RSS in the practice of field research.
 </td></tr>
 
-<tr class="clickable" data-toggle="collapse" id="14" data-target=".14collapsed">
-<td>15:10 – 15:30</td>
-<td>Modern technology in field sampling</td>
-<td>Rhiannon Schilling</td>
-</tr>
 
-<tr class="out budgets 14collapsed collapse" aria-expanded="false" style="height: 0px;">
-    <td colspan="3">
-        Subsoil constraints prevent current elite wheat varieties from achieving their grain yield potential. This study uses drones to non-destructively assess the growth and spectral reflectance of wheat in field trials with dispersive subsoils. Trials at Mallala and Roseworthy were imaged using 3DR Iris+ quadcopters fitted with a Sony RX100 III red-green-blue (RGB) camera and a MicaSense® multispectral camera at stem elongation and anthesis. Both trials had 41 bread and durum wheat varieties and a destructive trial of 12 bread wheat varieties. Values for canopy biomass, height and spectral reflectance indices were derived from drone images for each plot. Ground measurements of plant height, leaf greenness and multispectral information using a FieldSpec® were recorded for each plot. Shoot biomass cuts were collected in the destructive trial at both time-points. Variation between wheat varieties for height, biomass and multispectral indices was detected at both sites. Plant height measured using a ruler was correlated to canopy height obtained from RGB images with an R2 = 0.92 at Roseworthy and R2 = 0.61 at Mallala. The fresh weight of biomass from destructive plots was correlated to the canopy biomass derived from RGB images with an R2 = 0.62 at Roseworthy and R2 = 0.75 at Mallala. Changes in plant height and biomass between stem elongation and anthesis suggest drones fitted with RGB cameras will be useful to non-destructively measure wheat growth through time in the field. Further research is underway to measure additional time-points of biomass throughout the growing season.
-</td></tr>
 
 <tr>
 <td>15:00 – 15:30</td>
@@ -271,10 +300,6 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td></td>
 </tr>
 
-<tr class="out budgets 15collapsed collapse" aria-expanded="false" style="height: 0px;">
-    <td colspan="3">
-        Abstract will go here
-</td></tr>
 
 <tr>
 <td>17:30 – 17:40</td>
