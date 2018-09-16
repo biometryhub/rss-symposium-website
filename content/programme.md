@@ -265,7 +265,7 @@ Developing tailored solutions for field sampling in industry and research would 
 <tr class="clickable" data-toggle="collapse" id="14" data-target=".14collapsed">
 <td>14:30 – 14:50</td>
 
-<td>Modern technology in field sampling</td>
+<td>Use of drones to non-destructive assess wheat in field trials</td>
 <td>Rhiannon Schilling</td>
 </tr>
 
