@@ -68,5 +68,13 @@ Professor Na graduated with the Bachelor of Science in 1989 from the Department 
 #### Agricultural Scientist
 Rhiannon Schilling is an agricultural scientist at the Waite Research Institute of The University of Adelaide. She obtained a PhD in 2014, which involved the first field trials of genetically modified barley at saline sites in Australia. Between 2014-2016, she was a Postdoctoral Fellow on a GRDC-funded project focused on the development of salt tolerant wheat and barley. Her current research focus is to develop crop varieties with improved tolerance to subsoil constraints. She also uses unmanned aerial vehicles (UAVs) to assess the performance of wheat varieties in field trials for The South Australian Grain Industry Trust.
 <br>
+
+## Sharon Nielson
+#### Biometrician
+Sharon has been working as a biometrician (consulting statistician) for the past 17 years. She has had the privilege of working in partnership with researchers from many different discipline areas, providing statistical support and advice. During the past six years she has been researching the statistical analysis of NIR spectra – the design and analysis with linear mixed models of NIR spectra has been examined. On top of research she is currently working with SAGI-STH and operating her own statistical consulting business.
 <br>
 
+## Peter Kasprzak
+#### Masters student
+Following a winemaking career of 15 years both internationally and domestically, Peter came to statistics in biosciences.  After completing a  B.Mathematical Sciences (Hons) in the University of Adelaide, he joined the Biometry Hub (a research and consulting group at the Waite campus, University of Adelaide) in 2017 to undertake a M.Philosophy (Biometrics). His research is on feasibility for ranked set sampling in typical modern agronomy trials under different designs.  With an interest in computer programming, Peter is also working on developing online tools that facilitate sampling decisions for agronomists. Peter represents Young Statisticians in the Statistical Society of Australia, Southern branch, and is a member of the Research Committee of the Waite Research Institute. He is tutoring undergraduate and postgraduate statistics courses and supervises undergraduate research projects and internship in the Biometry Hub.
+<br>
