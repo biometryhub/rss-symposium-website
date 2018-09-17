@@ -197,16 +197,24 @@ The second part of the talk, we introduce a special design, order restricted ran
         Two current industry standard sampling protocols were observed in mid-2018 in order to help identify possible improvements and to determine if Ranked Set Sampling (RSS) was appropriate.  The first in Ouyen Victoria looked at soil grid sampling to investigate soil nutrient and moisture levels resulting from treatments in a randomised complete block design.  62 plots were randomly allocated over 4 blocks in sandy soil.  The second involved investigating seed emergence counts in Roseworthy Adelaide from different seeding methods.  66 plots were randomly allocated 11 treatments in a randomised complete block design.  In each case a recommended industry protocol was followed which was critically analysed to determine if it was indeed answering the required questions driving the experiment, and whether there was room for improvement in terms of accuracy and efficiency.  In each case it was determined that there was room for improvement with respect to the current protocol and available tools.  RSS was determined to not be suitable with current tools for this case of soil sampling, but exciting opportunities exist for RSS in seed emergence sampling, involving current precision agricultural practices.
 </td></tr>
 
-<tr class="clickable" data-toggle="collapse" id="10" data-target=".10collapsed">
+
+
+
+<tr class="clickable" data-toggle="collapse" id="9" data-target=".9collapsed">
 <td>12:20 – 12:40</td>
-<td>Latency of Fruit Yield Response to the Environmental Factors</td>
-<td>Myung Hwan Na</td>
+<td>Multiphase design and linear mixed model analysis of NIR scanning data</td>
+<td>Sharon Nielson</td>
 </tr>
 
-<tr class="out budgets 10collapsed collapse" aria-expanded="false" style="height: 0px;">
+<tr class="out budgets 9collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="3">
-		This presentation points out the importance of incorporating the latency of response in the prediction model of fruit yield. The plant does not respond to changes in environmental factors immediately. To illustrate this, the response time of crop yield to a variety of environmental factors, including temperature, solar radiation and humidity, etc. is studied in particular. The field data used in this research is collected on farms so as to minimize the negative influence of uncontrolled factors on the accuracy of statistical analysis. Five farms participating in this research are located in South Korea.
+	Near infrared (NIR) spectral analysis is a rapid, non-destructive assessment tool widely used to predict or describe chemical properties of a material under investigation. Reflectance values from the NIR region of the electromagnetic spectrum are measured on samples of the material. Different wavelengths in the NIR spectrum will interact with specific chemical bonds (usually O-H, N-H and C-H), resulting in high absorbance of the electromagnetic energy at that wavelength. This interaction results in energy absorbance at related wavelengths producing highly correlated absorbance information referred to as overtones and combinations. These relationships and the presence of serial correlation in the spectra mean that multicollinearity is a major problem for the statistical analysis of NIR spectra if traditional linear models are used. Therefore, partial least squares regression and principal components regression became popular for forming calibrations based on NIR spectral data even though several steps are required in this process.
+My research has led to the development of graphical tools for the visualization of NIR spectra. I have also explored the multiphase aspects of spectral studies, using two spectral studies that have been designed and analysed using rigorous scientific methods. The analysis of these studies has been achieved in the linear mixed model framework where the correlation of the spectra between wavelengths can be modelled appropriately. Additionally, the variances associated with the strata of a spectral study have been estimated. The importance of a statistical design for the collection of spectral data has been highlighted in the results from these studies.
 </td></tr>
+
+
+
+
 
 		
 <tr class="clickable" data-toggle="collapse" id="11" data-target=".11collapsed">
@@ -250,7 +258,7 @@ Developing tailored solutions for field sampling in industry and research would 
 
 
 <tr class="clickable" data-toggle="collapse" id="212" data-target=".212collapsed">
-<td>14:10 – 14:20</td>
+<td>14:20 – 14:30</td>
 <td>About assessment performance in the visual estimation of areas of grape bunch defects</td>
 <td>Eileen Scott</td>
 </tr>
@@ -294,8 +302,19 @@ Developing tailored solutions for field sampling in industry and research would 
 <td></td>
 </tr>
 
+<tr class="clickable" data-toggle="collapse" id="10" data-target=".10collapsed">
+<td>15:30 – 15:50</td>
+<td>Latency of Fruit Yield Response to the Environmental Factors</td>
+<td>Myung Hwan Na</td>
+</tr>
+
+<tr class="out budgets 10collapsed collapse" aria-expanded="false" style="height: 0px;">
+    <td colspan="3">
+		This presentation points out the importance of incorporating the latency of response in the prediction model of fruit yield. The plant does not respond to changes in environmental factors immediately. To illustrate this, the response time of crop yield to a variety of environmental factors, including temperature, solar radiation and humidity, etc. is studied in particular. The field data used in this research is collected on farms so as to minimize the negative influence of uncontrolled factors on the accuracy of statistical analysis. Five farms participating in this research are located in South Korea.
+</td></tr>
+
 <tr class="clickable" data-toggle="collapse" id="15" data-target=".15collapsed">
-<td>15:30 – 17:00</td>
+<td>15:50 – 17:00</td>
 <td>Round-table discussion on sampling and survey methodology in the practice of agriculture research and education in South-East Asia</td>
 <td>Ray Correll, Chris De Ieso, Oula Bouphakaly, Khonesavanh  Phialathounheuane, Bounsanong Chouangthavy</td>
 </tr>
