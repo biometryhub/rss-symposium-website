@@ -225,7 +225,10 @@ My research has led to the development of graphical tools for the visualization 
 
 <tr class="out budgets 11collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="3">
-        Abstract will go here
+        In recent years there has been an explosion in data which is related to agricultural research. This data deluge originates from a variety of sources such as sensors, satellites, drones and next generation sequencing to name but a few. Big data is a term that describes the large volume of data – both structured and unstructured – that is being generated on a day-to-day basis.
+So, what does the term “big data” actually mean? According to Wolfert et al. (2017), ‘a unifying definition of big data is difficult to give, but generally it is a term for data sets that are so large or complex that traditional data processing applications are inadequate’ [Agric Syst 153:69–80]. Laney (2001) introduced the concept of the three Vs which has become a popular framework for thinking about big data: Volume (quantities of data that are being generated), Velocity (the frequency at which data is generated, captured, and shared), Variety (wide variety of data which comes in all types of formats – from structured, numeric data in traditional databases to unstructured text documents) [META group research note 6.70 (2001): 1].
+It really does not matter which definition of big data you choose to use. What is important is what you do with the data that is being collected. This is the problem facing researchers working on grains because processing big data is not a trivial task. It is essential to have adequate computational processing power to “wrangle” the data. Storing, managing and analyzing the data present many challenges in terms of making sense of these vast data sets in a timely and accurate fashion. This is where high-performance computing (HPC) comes to the rescue.
+The focus of this talk will be on providing examples of the types of data that are becoming available to agricultural researchers and to discuss the cloud-based HPC platform that has been adopted by our research group to “crunch” these massive data sets.
 </td></tr>
 
 <tr>

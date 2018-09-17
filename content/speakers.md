@@ -64,6 +64,14 @@ Currently, he is a senior advisor on a Statistics for the Australian Grains Indu
 Professor Na graduated with the Bachelor of Science in 1989 from the Department of Mathematics Education, Seoul National University, which followed by M.Sc in 1993 and Ph.D. in 1998 from the Department of Statistics, Seoul National University. From 2003, he has joined the faculty of the Department of Statistics, Chonnam National University. His expertise is majored in the field of Statistical Quality Control (SQC) and Reliability theory. His active research areas are currently [SQC](https://www-sciencedirect-com.proxy.library.adelaide.edu.au/science/article/pii/S0378375804001971), Medical Radiation Safety, Machine learning, Agricultural Big-data analysis and more. Current research applications are in improving the productivity of greenhouse vegetables such as tomato, strawberry, mushroom; these projects are supported by the Rural Development Administration, South Korea. 
 <br>
 
+
+
+## [Andy Timmins](https://researchers.adelaide.edu.au/index.php/profile/andy.timmins)
+#### Research Fellow
+Andy completed a B.Sc. in biology which was followed by a Ph.D. in crop pest research and a M.Sc. in Computing Science. He spent a year working as “wet-lab” post-doc in the UK before switching careers and working in the I.T. industry as a software analyst / programmer. After several years in this role, Andy moved to Australia and pursue a career as a small-scale organic farmer. After exhausting his interest in farming, he decided to return to research at the University of Adelaide as a bioinformatician. Currently, he still works on bioinformatics projects but his interests have widened to include other areas such as machine learning and high-performance computing.
+
+<br>
+
 ## Rhiannon Schilling
 #### Agricultural Scientist
 Rhiannon Schilling is an agricultural scientist at the Waite Research Institute of The University of Adelaide. She obtained a PhD in 2014, which involved the first field trials of genetically modified barley at saline sites in Australia. Between 2014-2016, she was a Postdoctoral Fellow on a GRDC-funded project focused on the development of salt tolerant wheat and barley. Her current research focus is to develop crop varieties with improved tolerance to subsoil constraints. She also uses unmanned aerial vehicles (UAVs) to assess the performance of wheat varieties in field trials for The South Australian Grain Industry Trust.
@@ -72,6 +80,7 @@ Rhiannon Schilling is an agricultural scientist at the Waite Research Institute 
 ## Sharon Nielson
 #### Biometrician
 Sharon has been working as a biometrician (consulting statistician) for the past 17 years. She has had the privilege of working in partnership with researchers from many different discipline areas, providing statistical support and advice. During the past six years she has been researching the statistical analysis of NIR spectra – the design and analysis with linear mixed models of NIR spectra has been examined. On top of research she is currently working with SAGI-STH and operating her own statistical consulting business.
+
 <br>
 
 ## Peter Kasprzak
