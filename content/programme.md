@@ -187,25 +187,8 @@ The second part of the talk, we introduce a special design, order restricted ran
 
 
 
-<tr class="clickable" data-toggle="collapse" id="8" data-target=".8collapsed">
-<td>11:30 – 12:00</td>
-<td>Adoption of RSS in ecological and field surveys</td>
-<td>Jennifer Brown, Ray Correll</td>
-</tr>
-
-<tr class="out budgets 8collapsed collapse" aria-expanded="false" style="height: 0px;">
-    <td colspan="3">
-        Abstract will go here
-</td></tr>
-
-
-
-
-
-
-
 <tr class="clickable" data-toggle="collapse" id="9" data-target=".9collapsed">
-<td>12:00 – 12:20</td>
+<td>11:30 – 11:50</td>
 <td>Case-studies of typical agronomy sampling</td>
 <td>Peter Kasprzak, Ray Correll</td>
 </tr>
@@ -219,7 +202,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 
 
 <tr class="clickable" data-toggle="collapse" id="90" data-target=".90collapsed">
-<td>12:20 – 12:40</td>
+<td>11:50 – 12:10</td>
 <td>Multiphase design and linear mixed model analysis of NIR scanning data</td>
 <td>Sharon Nielson</td>
 </tr>
@@ -236,7 +219,7 @@ My research has led to the development of graphical tools for the visualization 
 
 		
 <tr class="clickable" data-toggle="collapse" id="11" data-target=".11collapsed">
-<td>12:40 – 13:00</td>
+<td>12:10 – 12:30</td>
 <td>Big data and HPC in grains research</td>
 <td>Andy Timmins</td>
 </tr>
@@ -250,13 +233,13 @@ The focus of this talk will be on providing examples of the types of data that a
 </td></tr>
 
 <tr>
-<td>13:00 – 14:00</td>
+<td>12:30 – 13:30</td>
 <td>Lunch & poster session</td>
 <td></td>
 </tr>
 
 <tr class="clickable" data-toggle="collapse" id="12" data-target=".12collapsed">
-<td>14:00 – 14:10</td>
+<td>13:30 – 13:40</td>
 <td>Coombe vineyard as a teaching tool for sampling</td>
 <td>Olena Kravchuk</td>
 </tr>
@@ -267,7 +250,7 @@ The focus of this talk will be on providing examples of the types of data that a
 </td></tr>
 
 <tr class="clickable" data-toggle="collapse" id="112" data-target=".112collapsed">
-<td>14:10 – 14:20</td>
+<td>13:40 – 13:50</td>
 <td>About assessment performance in the visual estimation of areas of grape bunch defects</td>
 <td>Olena Kravchuk, Eileen Scott</td>
 </tr>
@@ -279,7 +262,7 @@ Developing tailored solutions for field sampling in industry and research would 
 
 
 <tr class="clickable" data-toggle="collapse" id="212" data-target=".212collapsed">
-<td>14:20 – 14:30</td>
+<td>13:50 – 14:00</td>
 <td>PMapp functionality improved and new smart-phone app for assessing grapevine diseases, pests and disorders</td>
 <td>Eileen Scott</td>
 </tr>
@@ -292,7 +275,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 
 
 <tr class="clickable" data-toggle="collapse" id="14" data-target=".14collapsed">
-<td>14:30 – 14:50</td>
+<td>14:00 – 14:20</td>
 
 <td>Use of drones to non-destructive assessment in wheat field trials</td>
 <td>Rhiannon Schilling</td>
@@ -305,7 +288,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 
 
 <tr class="clickable" data-toggle="collapse" id="13" data-target=".13collapsed">
-<td>15:10 – 15:30</td>
+<td>14:20 – 14:40</td>
 <td>Shiny RSS app for a dialogue with field researchers</td>
 <td>Peter Kasprzak</td>
 </tr>
@@ -318,13 +301,13 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 
 
 <tr>
-<td>15:00 – 15:30</td>
+<td>14:40 – 15:10</td>
 <td>Afternoon tea</td>
 <td></td>
 </tr>
 
 <tr class="clickable" data-toggle="collapse" id="10" data-target=".10collapsed">
-<td>15:30 – 15:50</td>
+<td>15:10 – 15:30</td>
 <td>Latency of Fruit Yield Response to the Environmental Factors</td>
 <td>Myung Hwan Na</td>
 </tr>
@@ -334,8 +317,10 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 		This presentation points out the importance of incorporating the latency of response in the prediction model of fruit yield. The plant does not respond to changes in environmental factors immediately. To illustrate this, the response time of crop yield to a variety of environmental factors, including temperature, solar radiation and humidity, etc. is studied in particular. The field data used in this research is collected on farms so as to minimize the negative influence of uncontrolled factors on the accuracy of statistical analysis. Five farms participating in this research are located in South Korea.
 </td></tr>
 
+
+
 <tr class="clickable" data-toggle="collapse" id="15" data-target=".15collapsed">
-<td>15:50 – 17:00</td>
+<td>15:30 – 17:00</td>
 <td>Round-table discussion on sampling and survey methodology in the practice of agriculture research and education in South-East Asia</td>
 <td>Ray Correll, Chris De Ieso, Oula Bouphakaly, Khonesavanh  Phialathounheuane, Bounsanong Chouangthavy</td>
 </tr>
