@@ -213,10 +213,6 @@ The second part of the talk, we introduce a special design, order restricted ran
 My research has led to the development of graphical tools for the visualization of NIR spectra. I have also explored the multiphase aspects of spectral studies, using two spectral studies that have been designed and analysed using rigorous scientific methods. The analysis of these studies has been achieved in the linear mixed model framework where the correlation of the spectra between wavelengths can be modelled appropriately. Additionally, the variances associated with the strata of a spectral study have been estimated. The importance of a statistical design for the collection of spectral data has been highlighted in the results from these studies.
 </td></tr>
 
-
-
-
-
 		
 <tr class="clickable" data-toggle="collapse" id="11" data-target=".11collapsed">
 <td>12:10 – 12:30</td>
@@ -234,7 +230,7 @@ The focus of this talk will be on providing examples of the types of data that a
 
 <tr>
 <td>12:30 – 14:00</td>
-<td>Lunch & poster session</td>
+<td> Lunch and tours at the Waite Campus</td>
 <td></td>
 </tr>
 
