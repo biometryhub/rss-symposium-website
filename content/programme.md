@@ -200,13 +200,13 @@ The second part of the talk, we introduce a special design, order restricted ran
 
 
 
-<tr class="clickable" data-toggle="collapse" id="9" data-target=".9collapsed">
+<tr class="clickable" data-toggle="collapse" id="90" data-target=".90collapsed">
 <td>12:20 – 12:40</td>
 <td>Multiphase design and linear mixed model analysis of NIR scanning data</td>
 <td>Sharon Nielson</td>
 </tr>
 
-<tr class="out budgets 9collapsed collapse" aria-expanded="false" style="height: 0px;">
+<tr class="out budgets 90collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="3">
 	Near infrared (NIR) spectral analysis is a rapid, non-destructive assessment tool widely used to predict or describe chemical properties of a material under investigation. Reflectance values from the NIR region of the electromagnetic spectrum are measured on samples of the material. Different wavelengths in the NIR spectrum will interact with specific chemical bonds (usually O-H, N-H and C-H), resulting in high absorbance of the electromagnetic energy at that wavelength. This interaction results in energy absorbance at related wavelengths producing highly correlated absorbance information referred to as overtones and combinations. These relationships and the presence of serial correlation in the spectra mean that multicollinearity is a major problem for the statistical analysis of NIR spectra if traditional linear models are used. Therefore, partial least squares regression and principal components regression became popular for forming calibrations based on NIR spectral data even though several steps are required in this process.
 My research has led to the development of graphical tools for the visualization of NIR spectra. I have also explored the multiphase aspects of spectral studies, using two spectral studies that have been designed and analysed using rigorous scientific methods. The analysis of these studies has been achieved in the linear mixed model framework where the correlation of the spectra between wavelengths can be modelled appropriately. Additionally, the variances associated with the strata of a spectral study have been estimated. The importance of a statistical design for the collection of spectral data has been highlighted in the results from these studies.
@@ -256,7 +256,7 @@ The focus of this talk will be on providing examples of the types of data that a
 
 <tr class="out budgets 112collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="3">
-Developing tailored solutions for field sampling in industry and research would bring most benefit to ensuring the quality and traceability of the data collected. This talk presents a reflection on the conversations between statisticians and the wine industry steering group in a research project led by Prof Scott (Professor of Plant Pathology, University of Adelaide) and sponsored by Wine Australia (Australian Government), 2014 - 2017. A series of round-table dialogues facilitated by Prof Scott allowed the statisticians to understand requirements, expectations and constraints by the industry, and the industry representatives to engage with the statistical measures of the assessment quality, tailored to the practice of assessors training. An online tool for area estimation was developed as part of the overarching project and is now available online at <a href="http://www.pmassessment.com.au/#/home">PMAP</a> for grape assessment training and other use as appropriate.
+Developing tailored solutions for field sampling in industry and research would bring most benefit to ensuring the quality and traceability of the data collected. This talk presents a reflection on the conversations between statisticians and the wine industry steering group in a research project led by Prof Scott (Professor of Plant Pathology, University of Adelaide) and sponsored by Wine Australia (Australian Government), 2014 - 2017. A series of round-table dialogues facilitated by Prof Scott allowed the statisticians to understand requirements, expectations and constraints by the industry, and the industry representatives to engage with the statistical measures of the assessment quality, tailored to the practice of assessors training. An online tool for area estimation was developed as part of the overarching project and is now available online at www.pmassessment.com.au for grape assessment training and other use as appropriate.
 </td></tr>
 
 
@@ -269,7 +269,7 @@ Developing tailored solutions for field sampling in industry and research would 
 <tr class="out budgets 212collapsed collapse" aria-expanded="false" style="height: 0px;">
     <td colspan="3">
 	Diseases, pests and disorders reduce yield and quality of grapes harvested. Damage may be assessed during the growing season to support decisions about treatment options and close to harvest to inform decisions about quality and price. Many Australian wineries set thresholds for contamination or severity of damage at 3-5%, above which consignments of grapes may be downgraded or rejected. Assessment is typically based on visual inspection. A smart-phone application, PMapp, was released in 2015-16 to facilitate training and in-field assessment of powdery mildew on bunches. Feedback indicated that accuracy of the GPS was insufficient and that the app was being used to assess various diseases and pests in addition to powdery mildew.
-An updated PMapp has been developed with improved GPS capability, typically better than 10 metres, depending on network coverage. A new app, Grape Assess, offers all the capability of the improved PMapp and allows the user to record assessments of multiple diseases and disorders, including bunch rot, downy mildew, insect damage and sunburn. Grape Assess allows the user to customise each assessment by selecting the plant part and severity categories that best suit their requirements. Both apps are linked to online resources for assessing powdery mildew <a href="http://www.pmassessment.com.au/#/home">PMAP</a>.
+An updated PMapp has been developed with improved GPS capability, typically better than 10 metres, depending on network coverage. A new app, Grape Assess, offers all the capability of the improved PMapp and allows the user to record assessments of multiple diseases and disorders, including bunch rot, downy mildew, insect damage and sunburn. Grape Assess allows the user to customise each assessment by selecting the plant part and severity categories that best suit their requirements. Both apps are linked to online resources for assessing powdery mildew www.pmassessment.com.au.
 	</td></tr>
 
 
