@@ -174,8 +174,21 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td></td>
 </tr>
 
+<tr class="clickable" data-toggle="collapse" id="80" data-target=".80collapsed">
+<td>11:00 – 11:30</td>
+<td>Improvements to Ranked Set Sampling</td>
+<td> Jennifer Brown, Abdul Haq</td>
+</tr>
+
+<tr class="out budgets 80collapsed collapse" aria-expanded="false" style="height: 0px;">
+    <td colspan="3">
+        Ranked set sampling (RSS) has been extended in various ways since it was first suggested by McIntyre in 1952. The original design remains an efficient survey method when compared with simple random sampling. It has potential application to a wide range of studies in environmental management, ecology, and agriculture, where exact measurement of a selected unit is either difficult or costly and time-consuming.  Various modifications to RSS have been suggested. Here we review some of these modifications, including paired RSS, double RSS, multistage RSS, partial RSS, mixed RSS and paired double RSS. We conclude with some comments on the comparison of these methods and opportunities for their use in biology field studies.
+</td></tr>
+
+
+
 <tr class="clickable" data-toggle="collapse" id="8" data-target=".8collapsed">
-<td>11:00 – 12:00</td>
+<td>11:30 – 12:00</td>
 <td>Adoption of RSS in ecological and field surveys</td>
 <td>Jennifer Brown, Ray Correll</td>
 </tr>
@@ -184,6 +197,11 @@ The second part of the talk, we introduce a special design, order restricted ran
     <td colspan="3">
         Abstract will go here
 </td></tr>
+
+
+
+
+
 
 
 <tr class="clickable" data-toggle="collapse" id="9" data-target=".9collapsed">
