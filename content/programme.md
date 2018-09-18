@@ -177,7 +177,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <tr class="clickable" data-toggle="collapse" id="80" data-target=".80collapsed">
 <td>11:00 – 11:30</td>
 <td>Improvements to Ranked Set Sampling</td>
-<td> Jennifer Brown, Abdul Haq</td>
+<td> Jennifer Brown, <FONT COLOR=black>Abdul Haq</FONT></td>
 </tr>
 
 <tr class="out budgets 80collapsed collapse" aria-expanded="false" style="height: 0px;">
