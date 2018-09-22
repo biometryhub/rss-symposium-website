@@ -36,6 +36,7 @@ Professor Amer Al-Omari is a Professor of Statistics and Vice Dean of Academic R
 #### Senior Lecturer in Biometry and Head of the Biometry Hub at the University of Adelaide
  Dr Olena Kravchuk is a teaching and research academic in the School of Agriculture, Food and Wine, Waite Campus, University of Adelaide, where she is leading a research and consulting statistics group, The Biometry Hub. Olena’s range of qualifications include Masters of Engineering (Automative Control Systems), Masters of Applied Mathematics and PhD in Statistics. She is interested in rank methods in application to heavy-tailed and mixture distributions, and in robust statistical methods in general. In 2003 – 2011, Olena established a research program in Food Sensory and Sensometrics in the University of Queensland, and in 2011 – 2018, a research program in Statistics for Agriculture Field Research in the University of Adelaide. She has published 90+ research papers, and two book chapters. Olena collaborates successfully with agriculture industries and life scientists from many fields, translating their research questions and practical constraints in formal statistical settings.
  
+<!-- 
 <br>
 ## [You-Gan Wang](http://scholar.google.com.au/citations?user=MNUkTMQAAAAJ&hl=en)
 #### Professor of Data Science at Queensland University of Technology
@@ -45,6 +46,7 @@ Professor Wang is interested in developing methodologies in the main stream of s
 and his work is usually motivated by practical need and has been published in [Biometrika](http://biomet.oxfordjournals.org/), [Biometrics](http://www.biometrics.tibs.org/) , [Journal of the American  Statistical  Association](http://www.tandfonline.com/loi/uasa20#.VkKZbfdyWKs),   [Statistical Methods in Medical Research](http://smm.sagepub.com/),  [Annals of Statistics](http://www.imstat.org/aos/), 
 [Statistics in Medicine](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291097-0258) and [Biostatistics](http://biostatistics.oxfordjournals.org/). In knowledge-based applied statistics, he has contributed as a lead author in publication in life sciences, including publications by [Journal of Hydrology](http://www.journals.elsevier.com/journal-of-hydrology/) , 
 [Water Resources Research](http://www.agu.org/journals/wr/index.shtml), [Geophysical Research Letters](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291944-8007),  [Environmental Science & Technology](http://pubs.acs.org/journal/esthag), [Phytopathology](http://www.apsnet.org/publications/phytopathology/Pages/default.aspx), and [Fisheries](http://www.tandfonline.com/toc/ufsh20/current).   
+-->
 
 <br>
 ## [Raymond Correll](https://www.researchgate.net/profile/Raymond_Correll)
