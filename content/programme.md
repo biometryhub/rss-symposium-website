@@ -234,6 +234,20 @@ The focus of this talk will be on providing examples of the types of data that a
 <td></td>
 </tr>
 
+<tr>
+<td>13:00 – 13:30</td>
+<td> <FONT COLOR=black>The Plant Accelerator tour</FONT></td>
+<td>Dr Chris Brien; https://www.plantphenomics.org.au/about-us/</td>
+</tr>
+
+<tr>
+<td>13:30 – 14:00</td>
+<td>  <FONT COLOR=black>The Waite Arboretum tour</FONT></td>
+<td> Dr Kate Delaporte; https://www.adelaide.edu.au/waite-historic/arboretum/</td>
+</tr>
+
+
+
 <tr class="clickable" data-toggle="collapse" id="12" data-target=".12collapsed">
 <td>14:00 – 14:10</td>
 <td>Coombe vineyard as a teaching tool for sampling</td>
