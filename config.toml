@@ -139,9 +139,9 @@ paginate = 10
 	# Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyAEWfK0x75ZQTAxRdqp7oNQxVSZ4FEG0gI"
   
-    latitude = "-34.968035"
-    longitude = "138.635613"
-	direction = "Waite Building, Waite Rd, Urrbrae, SA, 5064"
+    latitude = "-34.968994" 
+    longitude = "138.637424"
+	direction = "Plant Genomics Centre, Urrbrae SA"
 
 [Permalinks]
     blog = "/post/:year/:month/:day/:filename/"
