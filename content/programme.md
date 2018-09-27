@@ -48,7 +48,7 @@ Please click on a talk title for the abstract.
 <td>09:30 – 10:30</td>
 <td>Ranked Set Sampling: rationale and historical development</td>
 <td>Doug Wolfe</td>
-<td><!--  Download --></td>
+<td><a href="https://universityofadelaide.box.com/shared/static/w21bdffgydqulta3ndiv1c2bng7dcrs9.pdf">Download</a></td>
 </tr>
 
 <tr class="out budgets 2collapsed collapse" aria-expanded="false" style="height: 0px;">
