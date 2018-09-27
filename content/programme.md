@@ -5,17 +5,19 @@ description = "Schedule for the Symposium and link to abstracts"
 
 Please click on a talk title for the abstract.
 
-## Day 1 - 27th September 2018
+## Day 1 - Thursday 27th September 2018
 
 <table class="cll">
 <col style="width:15%">
-<col style="width:55%">
-<col style="width:30%">
+<col style="width:50%">
+<col style="width:25%">
+<col style="width:10%">
 <thead>
 <tr>
 <th>Time</th>
 <th>Title</th>
 <th>Presenter</th>
+<th>Slides</th>
 </tr>
 </thead>
 
@@ -24,6 +26,7 @@ Please click on a talk title for the abstract.
 <td>08:30 – 09:00</td>
 <td>Registration and Networking</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr class="clickable" data-toggle="collapse" id="1" data-target=".1collapsed">
@@ -31,6 +34,7 @@ Please click on a talk title for the abstract.
 <td>09:00 – 09:30</td>
 <td>Reflecting on thoughts and writing by G.A. McIntyre</td>
 <td>Olena Kravchuk</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 1collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -44,6 +48,7 @@ Please click on a talk title for the abstract.
 <td>09:30 – 10:30</td>
 <td>Ranked Set Sampling: rationale and historical development</td>
 <td>Doug Wolfe</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 2collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -63,6 +68,7 @@ In this talk we briefly discuss these early efforts, but our emphasis will be on
 <td>11:00 – 12:00</td>
 <td>Design Based Inference in Ranked Set and Judgment Post Stratified Sampling Designs</td>
 <td>Omer Ozturk</td>
+<td><a href="https://universityofadelaide.box.com/shared/static/3lx8psr14ote2xw89y61y9j7tds9eezr.pdf">Download</a></td>
 </tr>
 
 <tr class="out budgets 3collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -76,6 +82,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>12:00 – 12:30</td>
 <td>Embedding  Ranked Set Sampling in design of experiment</td>
 <td>Richard Jarrett</td>
+<td><a href="https://universityofadelaide.box.com/shared/static/213d6slzj0nld6qlkq7wkbflxrtw8dfh.pptx">Download</a></td>
 </tr>
 
 <tr class="out budgets 4collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -88,6 +95,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>12:30 – 13:00</td>
 <td>Commonalities between Latin Squares Sampling and Ranked Set Sampling</td>
 <td>Ray Correll</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 5collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -101,6 +109,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>13:00 – 14:00</td>
 <td>Lunch</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -113,6 +122,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>14:00 – 14:30</td>
 <td>Working together on creating Ranked Set Sampling designs: <br>researcher-statistician knowledge transfer</td>
 <td>Olena Kravchuk</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 6collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -124,11 +134,13 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>14:30 – 17:30</td>
 <td>Round-table discussion with Agricultural and Biological Scientists and grain growers</td>
 <td>Facilitator: Dr Belinda Cay, AgCommunicators</td>
+<td></td>
 </tr>
 
 <tr>
 <td>16:50 – 17:30</td>
 <td>Refreshment and networking</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -141,17 +153,24 @@ The second part of the talk, we introduce a special design, order restricted ran
 </tbody>
 </table>
 
-## Day 2 - 28th September 2018
+
+
+
+
+
+## Day 2 - Friday 28th September 2018
 
 <table class="cll">
 <col style="width:15%">
-<col style="width:55%">
-<col style="width:30%">
+<col style="width:50%">
+<col style="width:25%">
+<col style="width:10%">
 <thead>
 <tr>
 <th>Time</th>
 <th>Title</th>
 <th>Presenter</th>
+<th>Slides</th>
 </tr>
 </thead>
 
@@ -160,6 +179,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>09:30 – 10:30</td>
 <td>Ranking methodologies in Ranked Set Sampling</td>
 <td>Amer Al-Omari</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 7collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -178,6 +198,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>11:00 – 11:30</td>
 <td>Improvements to Ranked Set Sampling</td>
 <td> Jennifer Brown, <FONT COLOR=black>Abdul Haq</FONT></td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 80collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -191,6 +212,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>11:30 – 11:50</td>
 <td>Case-studies of typical agronomy sampling</td>
 <td>Peter Kasprzak, Ray Correll</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 9collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -205,6 +227,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>11:50 – 12:10</td>
 <td>Multiphase design and linear mixed model analysis of NIR scanning data</td>
 <td>Sharon Nielson</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 90collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -218,6 +241,7 @@ My research has led to the development of graphical tools for the visualization 
 <td>12:10 – 12:30</td>
 <td>Big data and HPC in grains research</td>
 <td>Andy Timmins</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 11collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -232,18 +256,21 @@ The focus of this talk will be on providing examples of the types of data that a
 <td>12:30 – 14:00</td>
 <td> Lunch and tours at the Waite Campus</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr>
 <td>13:00 – 13:30</td>
-<td> <FONT COLOR=black>The Plant Accelerator tour</FONT></td>
-<td>Dr Chris Brien; https://www.plantphenomics.org.au/about-us/</td>
+<td> The Plant Accelerator tour: <a href="https://www.plantphenomics.org.au/about-us/">https://www.plantphenomics.org.au/about-us/</a></td>
+<td>Dr Chris Brien</td>
+<td></td>
 </tr>
 
 <tr>
 <td>13:30 – 14:00</td>
-<td>  <FONT COLOR=black>The Waite Arboretum tour</FONT></td>
-<td> Dr Kate Delaporte; https://www.adelaide.edu.au/waite-historic/arboretum/</td>
+<td> The Waite Arboretum tour: <a href="https://www.adelaide.edu.au/waite-historic/arboretum/">https://www.adelaide.edu.au/waite-historic/arboretum/</a></td>
+<td> Dr Kate Delaporte</td>
+<td></td>
 </tr>
 
 
@@ -252,6 +279,7 @@ The focus of this talk will be on providing examples of the types of data that a
 <td>14:00 – 14:10</td>
 <td>Coombe vineyard as a teaching tool for sampling</td>
 <td>Olena Kravchuk</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 12collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -263,6 +291,7 @@ The focus of this talk will be on providing examples of the types of data that a
 <td>14:10 – 14:20</td>
 <td>About assessment performance in the visual estimation of areas of grape bunch defects</td>
 <td>Olena Kravchuk, Eileen Scott</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 112collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -275,6 +304,7 @@ Developing tailored solutions for field sampling in industry and research would 
 <td>14:20 – 14:30</td>
 <td>PMapp functionality improved and new smart-phone app for assessing grapevine diseases, pests and disorders</td>
 <td>Eileen Scott</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 212collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -286,9 +316,9 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 
 <tr class="clickable" data-toggle="collapse" id="14" data-target=".14collapsed">
 <td>14:30 – 14:50</td>
-
 <td>Use of drones to non-destructive assessment in wheat field trials</td>
 <td>Rhiannon Schilling</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 14collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -301,6 +331,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>14:50 – 15:10</td>
 <td>Shiny RSS app for a dialogue with field researchers</td>
 <td>Peter Kasprzak</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 13collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -320,6 +351,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>15:40 – 16:00</td>
 <td>Latency of Fruit Yield Response to the Environmental Factors</td>
 <td>Myung Hwan Na</td>
+<!-- <td>Download</td> -->
 </tr>
 
 <tr class="out budgets 10collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -327,16 +359,18 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 		This presentation points out the importance of incorporating the latency of response in the prediction model of fruit yield. The plant does not respond to changes in environmental factors immediately. To illustrate this, the response time of crop yield to a variety of environmental factors, including temperature, solar radiation and humidity, etc. is studied in particular. The field data used in this research is collected on farms so as to minimize the negative influence of uncontrolled factors on the accuracy of statistical analysis. Five farms participating in this research are located in South Korea.
 </td></tr>
 
-<tr class="clickable" data-toggle="collapse" id="15" data-target=".15collapsed">
+<tr><!-- class="clickable" data-toggle="collapse" id="15" data-target=".15collapsed"> -->
 <td>16:00 – 17:00</td>
 <td>Round-table discussion on sampling and survey methodology in the practice of agriculture research and education in South-East Asia</td>
 <td>Ray Correll, Chris De Ieso, Oula Bouphakaly, Khonesavanh  Phialathounheuane, Bounsanong Chouangthavy</td>
+<td></td>
 </tr>
 
 
 <tr>
 <td>17:00 – 17:10</td>
 <td>Symposium closing</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -350,6 +384,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>19:30 – 21:30</td>
 <td>Webinar, reflecting on the discussions in the Symposium</td>
 <td>Facilitators: Jennifer Brown and Olena Kravchuk</td>
+<!-- <td>Download</td> -->
 </tr>
 </tbody>
 </table>
@@ -357,7 +392,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 
 
 
-## Day 3 - 29th September 2018
+## Day 3 - Saturday 29th September 2018
 
 <table class="cll">
 <col style="width:15%">
@@ -392,7 +427,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 
 <tr>
 <td>13:00 – 14:00</td>
-<td>Lunch at Sedan</td>
+<td>Lunch at <a href="https://goo.gl/maps/JqgzeJ9SVqD2", >Sedan</a></td>
 <td></td>
 </tr>
 
@@ -417,6 +452,12 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <tr>
 <td>16:00</td>
 <td>Afternoon tea in Adelaide Hills</td>
+<td></td>
+</tr>
+
+<tr>
+<td>17:00</td>
+<td>Return to Hotel</td>
 <td></td>
 </tr>
 </tbody>
