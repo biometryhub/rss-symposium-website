@@ -34,7 +34,7 @@ Please click on a talk title for the abstract.
 <td>09:00 – 09:30</td>
 <td>Reflecting on thoughts and writing by G.A. McIntyre</td>
 <td>Olena Kravchuk</td>
-<td><!--  Download --></td>
+<td><a href="https://universityofadelaide.box.com/shared/static/6afc3s8yfwkcqqw8tjb78vgcgfabb4wo.pdf">Download</a></td>
 </tr>
 
 <tr class="out budgets 1collapsed collapse" aria-expanded="false" style="height: 0px;">
