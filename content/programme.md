@@ -62,6 +62,7 @@ In this talk we briefly discuss these early efforts, but our emphasis will be on
 <td>10:30 – 11:00</td>
 <td>Morning tea break</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr class="clickable" data-toggle="collapse" id="3" data-target=".3collapsed">
@@ -193,6 +194,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <tr>
 <td>10:30 – 11:00</td>
 <td>Morning tea</td>
+<td></td>
 <td></td>
 </tr>
 
@@ -347,6 +349,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>15:10 – 15:40</td>
 <td>Afternoon tea</td>
 <td></td>
+<td></td>
 </tr>
 
 <tr class="clickable" data-toggle="collapse" id="10" data-target=".10collapsed">
@@ -379,6 +382,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <tr>
 <td>18:00 – 19:00</td>
 <td>Farewell drinks & science networking</td>
+<td></td>
 <td></td>
 </tr>
 
