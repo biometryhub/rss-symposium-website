@@ -34,7 +34,7 @@ Please click on a talk title for the abstract.
 <td>09:00 – 09:30</td>
 <td>Reflecting on thoughts and writing by G.A. McIntyre</td>
 <td>Olena Kravchuk</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 1collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -48,7 +48,7 @@ Please click on a talk title for the abstract.
 <td>09:30 – 10:30</td>
 <td>Ranked Set Sampling: rationale and historical development</td>
 <td>Doug Wolfe</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 2collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -95,7 +95,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>12:30 – 13:00</td>
 <td>Commonalities between Latin Squares Sampling and Ranked Set Sampling</td>
 <td>Ray Correll</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 5collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -122,7 +122,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>14:00 – 14:30</td>
 <td>Working together on creating Ranked Set Sampling designs: <br>researcher-statistician knowledge transfer</td>
 <td>Olena Kravchuk</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 6collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -179,7 +179,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>09:30 – 10:30</td>
 <td>Ranking methodologies in Ranked Set Sampling</td>
 <td>Amer Al-Omari</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 7collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -198,7 +198,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>11:00 – 11:30</td>
 <td>Improvements to Ranked Set Sampling</td>
 <td> Jennifer Brown, <FONT COLOR=black>Abdul Haq</FONT></td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 80collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -212,7 +212,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>11:30 – 11:50</td>
 <td>Case-studies of typical agronomy sampling</td>
 <td>Peter Kasprzak, Ray Correll</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 9collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -227,7 +227,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>11:50 – 12:10</td>
 <td>Multiphase design and linear mixed model analysis of NIR scanning data</td>
 <td>Sharon Nielson</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 90collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -241,7 +241,7 @@ My research has led to the development of graphical tools for the visualization 
 <td>12:10 – 12:30</td>
 <td>Big data and HPC in grains research</td>
 <td>Andy Timmins</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 11collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -279,7 +279,7 @@ The focus of this talk will be on providing examples of the types of data that a
 <td>14:00 – 14:10</td>
 <td>Coombe vineyard as a teaching tool for sampling</td>
 <td>Olena Kravchuk</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 12collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -291,7 +291,7 @@ The focus of this talk will be on providing examples of the types of data that a
 <td>14:10 – 14:20</td>
 <td>About assessment performance in the visual estimation of areas of grape bunch defects</td>
 <td>Olena Kravchuk, Eileen Scott</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 112collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -304,7 +304,7 @@ Developing tailored solutions for field sampling in industry and research would 
 <td>14:20 – 14:30</td>
 <td>PMapp functionality improved and new smart-phone app for assessing grapevine diseases, pests and disorders</td>
 <td>Eileen Scott</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 212collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -318,7 +318,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>14:30 – 14:50</td>
 <td>Use of drones to non-destructive assessment in wheat field trials</td>
 <td>Rhiannon Schilling</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 14collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -331,7 +331,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>14:50 – 15:10</td>
 <td>Shiny RSS app for a dialogue with field researchers</td>
 <td>Peter Kasprzak</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 13collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -351,7 +351,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>15:40 – 16:00</td>
 <td>Latency of Fruit Yield Response to the Environmental Factors</td>
 <td>Myung Hwan Na</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 
 <tr class="out budgets 10collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -384,7 +384,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>19:30 – 21:30</td>
 <td>Webinar, reflecting on the discussions in the Symposium</td>
 <td>Facilitators: Jennifer Brown and Olena Kravchuk</td>
-<!-- <td>Download</td> -->
+<td><!--  Download --></td>
 </tr>
 </tbody>
 </table>
