@@ -116,6 +116,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>14:00 – 17:30</td>
 <td>Round-table discussion at Aroma Café, Waite Campus, Uni of Adelaide</td>
 <td>McLeod House Rms G1B and G1C</td>
+<td></td>
 </tr>
 
 <tr class="clickable" data-toggle="collapse" id="6" data-target=".6collapsed">
@@ -147,7 +148,8 @@ The second part of the talk, we introduce a special design, order restricted ran
 
 <tr>
 <td>18:30 – 21:30</td>
-<td>Symposium dinner at Edinburgh Hotel</td>
+<td>Symposium dinner at <a href="https://goo.gl/maps/rfzgErDLdkN2">Edinburgh Hotel, Mitcham</a></td>
+<td><a href="https://goo.gl/maps/rfzgErDLdkN2">Google Maps Location</a></td>
 <td></td>
 </tr>
 </tbody>
