@@ -96,7 +96,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>12:30 – 13:00</td>
 <td>Commonalities between Latin Squares Sampling and Ranked Set Sampling</td>
 <td>Ray Correll</td>
-<td><!--  Download --></td>
+<td><a href="https://universityofadelaide.box.com/shared/static/ga61tq5xi832dpy0cod2kwu5ec6k0jed.pptx">Download</a></td>
 </tr>
 
 <tr class="out budgets 5collapsed collapse" aria-expanded="false" style="height: 0px;">
