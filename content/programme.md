@@ -182,7 +182,8 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>09:30 – 10:30</td>
 <td>Ranking methodologies in Ranked Set Sampling</td>
 <td>Amer Al-Omari</td>
-<td><!--  Download --></td>
+<td><a href="https://universityofadelaide.box.com/shared/static/ucu7wjy7e6908wd90l6pyln1f7rxdabj.ppt">Download 1</a><br>
+<a href="https://universityofadelaide.box.com/shared/static/j2lo75frmgkgbvow7l1ceftkldfqvbj4.pdf">Download 2</a></td>
 </tr>
 
 <tr class="out budgets 7collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -202,7 +203,8 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>11:00 – 11:30</td>
 <td>Improvements to Ranked Set Sampling</td>
 <td> Jennifer Brown, <FONT COLOR=black>Abdul Haq</FONT></td>
-<td><!--  Download --></td>
+<td><a href="https://universityofadelaide.box.com/shared/static/5qjm3ywm4lnld9npua9r9d5zzwp6mkm6.pdf">Download 1</a><br>
+<a href="https://universityofadelaide.box.com/shared/static/bah3exenp809fpdktzg83h2wutgdgf65.pptx">Download 2</a></td>
 </tr>
 
 <tr class="out budgets 80collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -216,7 +218,8 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>11:30 – 11:50</td>
 <td>Case-studies of typical agronomy sampling</td>
 <td>Peter Kasprzak, Ray Correll</td>
-<td><!--  Download --></td>
+<td><a href="">Download 1</a><br>
+<a href="https://universityofadelaide.box.com/shared/static/ef6ydfcbuy0rzbw2c1gaql3lf89lj89x.pptx">Download 2</a></td>
 </tr>
 
 <tr class="out budgets 9collapsed collapse" aria-expanded="false" style="height: 0px;">
