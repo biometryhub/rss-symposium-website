@@ -467,7 +467,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 
 <tr>
 <td>16:00</td>
-<td>Afternoon tea in Adelaide Hills</td>
+<td>Afternoon tea</td>
 <td><a href="https://goo.gl/maps/xKsAZdhctHN2">St Saviours Church</a></td>
 </tr>
 
