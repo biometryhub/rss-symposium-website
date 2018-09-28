@@ -371,7 +371,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>16:00 – 17:00</td>
 <td>Round-table discussion on sampling and survey methodology in the practice of agriculture research and education in South-East Asia</td>
 <td>Ray Correll, Chris De Ieso, Oula Bouphakaly, Khonesavanh  Phialathounheuane, Bounsanong Chouangthavy</td>
-<td></td>
+<td><a href="https://universityofadelaide.box.com/shared/static/l5nmcwk82k66wewpkzy4uk1pcue0gkjg.pptx">Download</a></td>
 </tr>
 
 
