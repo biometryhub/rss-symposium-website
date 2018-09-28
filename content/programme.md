@@ -248,7 +248,7 @@ My research has led to the development of graphical tools for the visualization 
 <td>12:10 – 12:30</td>
 <td>Big data and HPC in grains research</td>
 <td>Andy Timmins</td>
-<td><!--  Download --></td>
+<td><a href="https://universityofadelaide.box.com/shared/static/eh2h1fwap4lmms33tgzcx7ak0ymw4d4j.pptx">Download</a></td>
 </tr>
 
 <tr class="out budgets 11collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -420,6 +420,12 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>09:30</td>
 <td>Depart Hotel</td>
 <td><a href="https://goo.gl/maps/pkh69a3GgmK2">Majestic Roof Garden Hotel</a></td>
+</tr>
+
+<tr>
+<td>09:45</td>
+<td>Meet at St Saviours Church</td>
+<td><a href="https://goo.gl/maps/xKsAZdhctHN2">St Saviours Church</a></td>
 </tr>
 
 <tr>
