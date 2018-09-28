@@ -325,7 +325,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>14:30 – 14:50</td>
 <td>Use of drones to non-destructive assessment in wheat field trials</td>
 <td>Rhiannon Schilling</td>
-<td><!--  Download --></td>
+<td><a href="https://universityofadelaide.box.com/shared/static/rbdf1yi4yvdxhpeykzd9e0306jq7n2si.pptx">Download</a></td>
 </tr>
 
 <tr class="out budgets 14collapsed collapse" aria-expanded="false" style="height: 0px;">
