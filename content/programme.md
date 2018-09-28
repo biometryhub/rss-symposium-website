@@ -231,7 +231,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>11:50 – 12:10</td>
 <td>Multiphase design and linear mixed model analysis of NIR scanning data</td>
 <td>Sharon Nielson</td>
-<td><!--  Download --></td>
+<td><a href="https://universityofadelaide.box.com/shared/static/qj2dzykjpym2p8z4alyqj7fkxeqdq9k6.pdf">Download</a></td>
 </tr>
 
 <tr class="out budgets 90collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -416,7 +416,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <tr>
 <td>09:30</td>
 <td>Depart Hotel</td>
-<td></td>
+<td><a href="https://goo.gl/maps/pkh69a3GgmK2">Majestic Roof Garden Hotel</a></td>
 </tr>
 
 <tr>
