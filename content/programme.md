@@ -298,7 +298,7 @@ The focus of this talk will be on providing examples of the types of data that a
 <td>14:10 – 14:20</td>
 <td>About assessment performance in the visual estimation of areas of grape bunch defects</td>
 <td>Olena Kravchuk, Eileen Scott</td>
-<td><!--  Download --></td>
+<td><a href="http://pmassessment.com.au/#/home">PMapp page</a></td>
 </tr>
 
 <tr class="out budgets 112collapsed collapse" aria-expanded="false" style="height: 0px;">
@@ -359,7 +359,8 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>15:40 – 16:00</td>
 <td>Latency of Fruit Yield Response to the Environmental Factors</td>
 <td>Myung Hwan Na</td>
-<td><!--  Download --></td>
+<td><a href="https://universityofadelaide.box.com/shared/static/lfokqvra37kek4ou8jbgawlvwcvc5i0n.pdf">Download 1</a><br>
+<a href="https://universityofadelaide.box.com/shared/static/j36f2sfoyov8lnf2wowvgitu1qcmtx2f.pptx">Download 2</a></td>
 </tr>
 
 <tr class="out budgets 10collapsed collapse" aria-expanded="false" style="height: 0px;">
