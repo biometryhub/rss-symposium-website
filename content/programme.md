@@ -461,7 +461,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 
 <tr>
 <td>15:00</td>
-<td>Palmer Field site, soil core sampling, sampling for patchiness, on-off row sowing with GPS tracking</td>
+<td><a href="https://goo.gl/maps/imFdbBKRaH62">Palmer</a> Field site, soil core sampling, sampling for patchiness, on-off row sowing with GPS tracking</td>
 <td>Ray Correll</td>
 </tr>
 
