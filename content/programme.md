@@ -218,7 +218,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <td>11:30 – 11:50</td>
 <td>Case-studies of typical agronomy sampling</td>
 <td>Peter Kasprzak, Ray Correll</td>
-<td><a href="">Download 1</a><br>
+<td><a href="https://universityofadelaide.box.com/shared/static/uok6y3zes2xr2nkzw17h5fho4ot7r51b.pdf">Download 1</a><br>
 <a href="https://universityofadelaide.box.com/shared/static/ef6ydfcbuy0rzbw2c1gaql3lf89lj89x.pptx">Download 2</a></td>
 </tr>
 
@@ -338,7 +338,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 <td>14:50 – 15:10</td>
 <td>Shiny RSS app for a dialogue with field researchers</td>
 <td>Peter Kasprzak</td>
-<td><!--  Download --></td>
+<td><a href="https://universityofadelaide.box.com/shared/static/nqj1bibvfyz8ykdpszmpfzr4e76v3kxc.pdf">Download</a></td>
 </tr>
 
 <tr class="out budgets 13collapsed collapse" aria-expanded="false" style="height: 0px;">
