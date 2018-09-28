@@ -286,7 +286,7 @@ The focus of this talk will be on providing examples of the types of data that a
 <td>14:00 – 14:10</td>
 <td>Coombe vineyard as a teaching tool for sampling</td>
 <td>Olena Kravchuk</td>
-<td><!--  Download --></td>
+<td><a href="https://universityofadelaide.box.com/shared/static/tfbuppkt2v41gncpzm33rch6vofjzkw7.pptx">Download</a></td>
 </tr>
 
 <tr class="out budgets 12collapsed collapse" aria-expanded="false" style="height: 0px;">
