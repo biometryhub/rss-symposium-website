@@ -233,7 +233,7 @@ The second part of the talk, we introduce a special design, order restricted ran
 <tr class="clickable" data-toggle="collapse" id="90" data-target=".90collapsed">
 <td>11:50 – 12:10</td>
 <td>Multiphase design and linear mixed model analysis of NIR scanning data</td>
-<td>Sharon Nielson</td>
+<td>Sharon Nielsen</td>
 <td><a href="https://universityofadelaide.box.com/shared/static/qj2dzykjpym2p8z4alyqj7fkxeqdq9k6.pdf">Download</a></td>
 </tr>
 
@@ -480,4 +480,3 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 
 
 <br>
-## Presentations will be uploaded to the website at the end of the symposium.
