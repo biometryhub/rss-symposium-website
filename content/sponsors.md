@@ -29,3 +29,9 @@ The School of Mathematics and Statistics at the [University of Canterbury](https
 </a>
 <br>
 <br>
+[Rho Environmetrics](https://www.linkedin.com/in/ray-correll-30898214/) is an independent consulting company in South Australian providing statistical advice on various issues on field and environmental assessment. The company has organised the schedule of the sampling day tour on 29, September. The sponsorship is covering the catering at the tour.
+<a href="https://www.linkedin.com/in/ray-correll-30898214/">
+<img style="float: center;" src="/img/sponsors/logo.bmp", class="sponsors">
+</a>
+<br>
+<br>
