@@ -392,7 +392,7 @@ An updated PMapp has been developed with improved GPS capability, typically bett
 
 <tr>
 <td>19:30 – 21:30</td>
-<td>Webinar, reflecting on the discussions in the Symposium</td>
+	<td>Webinar, reflecting on the discussions in the Symposium <b>To be held mid-late October</b></td>
 <td>Facilitators: Jennifer Brown and Olena Kravchuk</td>
 <td><!--  Download --></td>
 </tr>
