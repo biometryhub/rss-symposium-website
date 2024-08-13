@@ -1,4 +1,4 @@
-baseurl = "https://www.rankedsetsymposium2018.website/"
+baseurl = "https://rankedset.netlify.app/"
 title = "Ranked Set Sampling Symposium"
 theme = "hugo-universal-theme"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -38,6 +38,10 @@ googleAnalytics = "UA-120222240-1"
 
 # Define the number of posts per page
 paginate = 10
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
 
 [menu]
 
